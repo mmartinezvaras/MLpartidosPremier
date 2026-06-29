@@ -1,0 +1,761 @@
+date,time,comp,round,day,venue,result,gf,ga,opponent,sh,sot,fouls,corners,yellow,red,season,team
+2025-08-15,18:00,La Liga,Matchweek 1,Fri,Home,L,1,3,Vallecano,7,2,8,2,0,1,2025-2026,Girona
+2025-08-15,18:00,La Liga,Matchweek 1,Fri,Away,W,3,1,Girona,16,5,17,4,1,0,2025-2026,Vallecano
+2025-08-15,20:30,La Liga,Matchweek 1,Fri,Away,L,0,2,Villarreal,5,4,8,1,2,1,2025-2026,Oviedo
+2025-08-15,20:30,La Liga,Matchweek 1,Fri,Home,W,2,0,Oviedo,25,10,10,10,1,0,2025-2026,Villarreal
+2025-08-16,18:30,La Liga,Matchweek 1,Sat,Away,W,3,0,Mallorca,24,8,17,6,1,0,2025-2026,Barcelona
+2025-08-16,18:30,La Liga,Matchweek 1,Sat,Home,L,0,3,Barcelona,4,1,8,3,4,2,2025-2026,Mallorca
+2025-08-16,20:30,La Liga,Matchweek 1,Sat,Home,W,2,1,Levante,15,4,15,10,0,0,2025-2026,Alaves
+2025-08-16,20:30,La Liga,Matchweek 1,Sat,Away,L,1,2,Alaves,7,3,13,1,1,0,2025-2026,Levante
+2025-08-16,20:30,La Liga,Matchweek 1,Sat,Away,D,1,1,Valencia,13,3,11,7,2,0,2025-2026,Sociedad
+2025-08-16,20:30,La Liga,Matchweek 1,Sat,Home,D,1,1,Sociedad,18,2,5,8,1,0,2025-2026,Valencia
+2025-08-17,16:00,La Liga,Matchweek 1,Sun,Home,L,0,2,Getafe,11,3,15,9,3,0,2025-2026,Celta
+2025-08-17,16:00,La Liga,Matchweek 1,Sun,Away,W,2,0,Celta,10,3,17,3,2,0,2025-2026,Getafe
+2025-08-17,18:30,La Liga,Matchweek 1,Sun,Home,W,3,2,Sevilla,14,3,8,10,0,0,2025-2026,Ath Bilbao
+2025-08-17,18:30,La Liga,Matchweek 1,Sun,Away,L,2,3,Ath Bilbao,12,6,12,1,2,0,2025-2026,Sevilla
+2025-08-17,20:30,La Liga,Matchweek 1,Sun,Away,L,1,2,Espanol,15,4,11,3,3,0,2025-2026,Ath Madrid
+2025-08-17,20:30,La Liga,Matchweek 1,Sun,Home,W,2,1,Ath Madrid,10,5,14,1,3,0,2025-2026,Espanol
+2025-08-18,20:00,La Liga,Matchweek 1,Mon,Away,D,1,1,Elche,12,4,13,3,1,0,2025-2026,Betis
+2025-08-18,20:00,La Liga,Matchweek 1,Mon,Home,D,1,1,Betis,6,2,14,1,0,0,2025-2026,Elche
+2025-08-19,20:00,La Liga,Matchweek 1,Tue,Away,L,0,1,Real Madrid,2,0,12,0,0,1,2025-2026,Osasuna
+2025-08-19,20:00,La Liga,Matchweek 1,Tue,Home,W,1,0,Osasuna,18,5,10,7,1,0,2025-2026,Real Madrid
+2025-08-22,20:30,La Liga,Matchweek 2,Fri,Away,L,0,1,Betis,11,5,17,2,3,0,2025-2026,Alaves
+2025-08-22,20:30,La Liga,Matchweek 2,Fri,Home,W,1,0,Alaves,16,5,10,5,2,0,2025-2026,Betis
+2025-08-23,16:00,La Liga,Matchweek 2,Sat,Away,D,1,1,Mallorca,8,2,12,4,3,0,2025-2026,Celta
+2025-08-23,16:00,La Liga,Matchweek 2,Sat,Home,D,1,1,Celta,12,4,12,3,3,0,2025-2026,Mallorca
+2025-08-23,18:30,La Liga,Matchweek 2,Sat,Home,D,1,1,Elche,13,6,14,10,0,0,2025-2026,Ath Madrid
+2025-08-23,18:30,La Liga,Matchweek 2,Sat,Away,D,1,1,Ath Madrid,6,2,7,2,3,0,2025-2026,Elche
+2025-08-23,20:30,La Liga,Matchweek 2,Sat,Away,W,3,2,Levante,26,10,8,11,1,0,2025-2026,Barcelona
+2025-08-23,20:30,La Liga,Matchweek 2,Sat,Home,L,2,3,Barcelona,8,5,10,0,3,0,2025-2026,Levante
+2025-08-24,16:00,La Liga,Matchweek 2,Sun,Home,W,1,0,Valencia,16,4,14,3,2,0,2025-2026,Osasuna
+2025-08-24,16:00,La Liga,Matchweek 2,Sun,Away,L,0,1,Osasuna,4,1,13,4,1,1,2025-2026,Valencia
+2025-08-24,18:30,La Liga,Matchweek 2,Sun,Away,D,2,2,Sociedad,14,3,18,2,2,0,2025-2026,Espanol
+2025-08-24,18:30,La Liga,Matchweek 2,Sun,Away,L,0,5,Villarreal,5,2,9,1,2,0,2025-2026,Girona
+2025-08-24,18:30,La Liga,Matchweek 2,Sun,Home,D,2,2,Espanol,15,7,16,5,2,0,2025-2026,Sociedad
+2025-08-24,18:30,La Liga,Matchweek 2,Sun,Home,W,5,0,Girona,19,7,8,8,1,0,2025-2026,Villarreal
+2025-08-24,20:30,La Liga,Matchweek 2,Sun,Home,L,0,3,Real Madrid,6,3,8,1,2,0,2025-2026,Oviedo
+2025-08-24,20:30,La Liga,Matchweek 2,Sun,Away,W,3,0,Oviedo,26,10,7,9,1,0,2025-2026,Real Madrid
+2025-08-25,18:30,La Liga,Matchweek 2,Mon,Home,W,1,0,Vallecano,11,4,13,3,0,0,2025-2026,Ath Bilbao
+2025-08-25,18:30,La Liga,Matchweek 2,Mon,Away,L,0,1,Ath Bilbao,6,1,13,6,4,0,2025-2026,Vallecano
+2025-08-25,20:30,La Liga,Matchweek 2,Mon,Away,W,2,1,Sevilla,9,6,24,3,2,0,2025-2026,Getafe
+2025-08-25,20:30,La Liga,Matchweek 2,Mon,Home,L,1,2,Getafe,12,3,10,5,2,0,2025-2026,Sevilla
+2025-08-27,20:00,La Liga,Matchweek 3,Wed,Away,D,1,1,Celta,7,2,11,4,2,0,2025-2026,Betis
+2025-08-27,20:00,La Liga,Matchweek 3,Wed,Home,D,1,1,Betis,14,5,13,10,1,0,2025-2026,Celta
+2025-08-29,18:30,La Liga,Matchweek 3,Fri,Home,W,2,0,Levante,16,5,14,4,1,0,2025-2026,Elche
+2025-08-29,18:30,La Liga,Matchweek 3,Fri,Away,L,0,2,Elche,11,1,17,2,2,0,2025-2026,Levante
+2025-08-29,20:30,La Liga,Matchweek 3,Fri,Away,L,0,3,Valencia,11,1,7,6,0,0,2025-2026,Getafe
+2025-08-29,20:30,La Liga,Matchweek 3,Fri,Home,W,3,0,Getafe,7,4,18,8,2,0,2025-2026,Valencia
+2025-08-30,16:00,La Liga,Matchweek 3,Sat,Home,D,1,1,Ath Madrid,5,2,10,1,2,0,2025-2026,Alaves
+2025-08-30,16:00,La Liga,Matchweek 3,Sat,Away,D,1,1,Alaves,15,6,17,6,3,0,2025-2026,Ath Madrid
+2025-08-30,18:00,La Liga,Matchweek 3,Sat,Home,W,1,0,Sociedad,8,1,7,1,2,0,2025-2026,Oviedo
+2025-08-30,18:00,La Liga,Matchweek 3,Sat,Away,L,0,1,Oviedo,18,6,18,10,1,0,2025-2026,Sociedad
+2025-08-30,18:30,La Liga,Matchweek 3,Sat,Home,L,0,2,Sevilla,20,5,5,11,0,0,2025-2026,Girona
+2025-08-30,18:30,La Liga,Matchweek 3,Sat,Away,W,2,0,Girona,13,4,14,3,2,0,2025-2026,Sevilla
+2025-08-30,20:30,La Liga,Matchweek 3,Sat,Away,L,1,2,Real Madrid,9,5,7,5,0,0,2025-2026,Mallorca
+2025-08-30,20:30,La Liga,Matchweek 3,Sat,Home,W,2,1,Mallorca,17,7,12,4,2,0,2025-2026,Real Madrid
+2025-08-31,16:00,La Liga,Matchweek 4,Sun,Home,D,1,1,Villarreal,10,2,11,1,1,0,2025-2026,Celta
+2025-08-31,16:00,La Liga,Matchweek 3,Sun,Away,D,1,1,Celta,8,3,8,5,1,0,2025-2026,Villarreal
+2025-08-31,18:00,La Liga,Matchweek 3,Sun,Away,W,2,1,Betis,15,6,16,10,4,1,2025-2026,Ath Bilbao
+2025-08-31,18:00,La Liga,Matchweek 4,Sun,Home,L,1,2,Ath Bilbao,9,2,9,4,1,0,2025-2026,Betis
+2025-08-31,18:30,La Liga,Matchweek 3,Sun,Home,W,1,0,Osasuna,10,4,13,2,2,0,2025-2026,Espanol
+2025-08-31,18:30,La Liga,Matchweek 3,Sun,Away,L,0,1,Espanol,10,3,14,3,3,0,2025-2026,Osasuna
+2025-08-31,20:30,La Liga,Matchweek 3,Sun,Away,D,1,1,Vallecano,12,3,8,4,1,0,2025-2026,Barcelona
+2025-08-31,20:30,La Liga,Matchweek 3,Sun,Home,D,1,1,Barcelona,12,6,16,9,4,0,2025-2026,Vallecano
+2025-09-12,20:00,La Liga,Matchweek 4,Fri,Away,D,2,2,Sevilla,5,2,19,2,3,0,2025-2026,Elche
+2025-09-12,20:00,La Liga,Matchweek 4,Fri,Home,D,2,2,Elche,7,3,23,2,4,0,2025-2026,Sevilla
+2025-09-13,13:00,La Liga,Matchweek 4,Sat,Home,W,2,0,Oviedo,10,3,12,4,2,0,2025-2026,Getafe
+2025-09-13,13:00,La Liga,Matchweek 4,Sat,Away,L,0,2,Getafe,5,1,18,3,5,1,2025-2026,Oviedo
+2025-09-13,15:15,La Liga,Matchweek 4,Sat,Away,W,2,1,Sociedad,16,6,7,4,1,1,2025-2026,Real Madrid
+2025-09-13,15:15,La Liga,Matchweek 4,Sat,Home,L,1,2,Real Madrid,23,4,17,12,2,0,2025-2026,Sociedad
+2025-09-13,17:30,La Liga,Matchweek 4,Sat,Away,W,1,0,Ath Bilbao,4,2,21,6,3,0,2025-2026,Alaves
+2025-09-13,17:30,La Liga,Matchweek 4,Sat,Home,L,0,1,Alaves,12,3,17,6,4,0,2025-2026,Ath Bilbao
+2025-09-13,20:00,La Liga,Matchweek 4,Sat,Home,W,2,0,Villarreal,8,3,12,8,2,0,2025-2026,Ath Madrid
+2025-09-13,20:00,La Liga,Matchweek 4,Sat,Away,L,0,2,Ath Madrid,8,1,15,3,4,0,2025-2026,Villarreal
+2025-09-14,13:00,La Liga,Matchweek 5,Sun,Home,D,1,1,Girona,21,7,7,10,0,0,2025-2026,Celta
+2025-09-14,13:00,La Liga,Matchweek 4,Sun,Away,D,1,1,Celta,13,8,9,3,3,0,2025-2026,Girona
+2025-09-14,15:15,La Liga,Matchweek 5,Sun,Away,D,2,2,Levante,28,9,11,12,2,0,2025-2026,Betis
+2025-09-14,15:15,La Liga,Matchweek 4,Sun,Home,D,2,2,Betis,5,2,16,4,3,0,2025-2026,Levante
+2025-09-14,17:30,La Liga,Matchweek 4,Sun,Home,W,2,0,Vallecano,9,7,13,3,3,0,2025-2026,Osasuna
+2025-09-14,17:30,La Liga,Matchweek 4,Sun,Away,L,0,2,Osasuna,19,6,7,6,2,0,2025-2026,Vallecano
+2025-09-14,20:00,La Liga,Matchweek 4,Sun,Home,W,6,0,Valencia,24,10,9,5,0,0,2025-2026,Barcelona
+2025-09-14,20:00,La Liga,Matchweek 4,Sun,Away,L,0,6,Barcelona,2,1,8,4,1,0,2025-2026,Valencia
+2025-09-15,20:00,La Liga,Matchweek 4,Mon,Home,W,3,2,Mallorca,9,3,9,3,2,1,2025-2026,Espanol
+2025-09-15,20:00,La Liga,Matchweek 4,Mon,Away,L,2,3,Espanol,24,10,16,9,1,0,2025-2026,Mallorca
+2025-09-19,20:00,La Liga,Matchweek 6,Fri,Home,W,3,1,Sociedad,21,6,7,3,3,0,2025-2026,Betis
+2025-09-19,20:00,La Liga,Matchweek 5,Fri,Away,L,1,3,Betis,11,5,20,5,7,0,2025-2026,Sociedad
+2025-09-20,13:00,La Liga,Matchweek 5,Sat,Home,L,0,4,Levante,7,1,11,5,4,2,2025-2026,Girona
+2025-09-20,13:00,La Liga,Matchweek 5,Sat,Away,W,4,0,Girona,14,7,17,4,3,0,2025-2026,Levante
+2025-09-20,15:15,La Liga,Matchweek 5,Sat,Away,L,0,2,Real Madrid,8,1,20,3,0,0,2025-2026,Espanol
+2025-09-20,15:15,La Liga,Matchweek 5,Sat,Home,W,2,0,Espanol,16,5,10,5,2,0,2025-2026,Real Madrid
+2025-09-20,17:30,La Liga,Matchweek 5,Sat,Home,L,1,2,Sevilla,8,5,20,4,1,0,2025-2026,Alaves
+2025-09-20,17:30,La Liga,Matchweek 5,Sat,Away,L,1,2,Villarreal,6,3,11,0,3,1,2025-2026,Osasuna
+2025-09-20,17:30,La Liga,Matchweek 5,Sat,Away,W,2,1,Alaves,9,3,19,4,7,0,2025-2026,Sevilla
+2025-09-20,17:30,La Liga,Matchweek 5,Sat,Home,W,2,1,Osasuna,26,8,10,7,2,0,2025-2026,Villarreal
+2025-09-20,20:00,La Liga,Matchweek 5,Sat,Away,L,0,2,Valencia,11,5,6,6,1,1,2025-2026,Ath Bilbao
+2025-09-20,20:00,La Liga,Matchweek 5,Sat,Home,W,2,0,Ath Bilbao,13,5,13,5,1,0,2025-2026,Valencia
+2025-09-21,13:00,La Liga,Matchweek 6,Sun,Away,D,1,1,Vallecano,9,5,10,7,1,0,2025-2026,Celta
+2025-09-21,13:00,La Liga,Matchweek 5,Sun,Home,D,1,1,Celta,15,5,8,5,1,0,2025-2026,Vallecano
+2025-09-21,15:15,La Liga,Matchweek 5,Sun,Away,D,1,1,Mallorca,12,7,6,6,0,1,2025-2026,Ath Madrid
+2025-09-21,15:15,La Liga,Matchweek 5,Sun,Home,D,1,1,Ath Madrid,8,3,14,3,0,0,2025-2026,Mallorca
+2025-09-21,17:30,La Liga,Matchweek 5,Sun,Home,W,1,0,Oviedo,15,5,9,3,2,0,2025-2026,Elche
+2025-09-21,17:30,La Liga,Matchweek 5,Sun,Away,L,0,1,Elche,12,4,18,3,2,0,2025-2026,Oviedo
+2025-09-21,20:00,La Liga,Matchweek 5,Sun,Home,W,3,0,Getafe,16,7,9,3,2,0,2025-2026,Barcelona
+2025-09-21,20:00,La Liga,Matchweek 5,Sun,Away,L,0,3,Barcelona,3,2,15,2,4,0,2025-2026,Getafe
+2025-09-23,18:00,La Liga,Matchweek 6,Tue,Home,D,1,1,Girona,17,5,19,8,0,0,2025-2026,Ath Bilbao
+2025-09-23,18:00,La Liga,Matchweek 6,Tue,Home,D,2,2,Valencia,21,10,9,8,1,0,2025-2026,Espanol
+2025-09-23,18:00,La Liga,Matchweek 6,Tue,Away,D,1,1,Ath Bilbao,6,3,15,1,2,0,2025-2026,Girona
+2025-09-23,18:00,La Liga,Matchweek 6,Tue,Away,D,2,2,Espanol,5,2,9,3,4,0,2025-2026,Valencia
+2025-09-23,20:30,La Liga,Matchweek 6,Tue,Home,L,1,4,Real Madrid,11,2,17,1,1,0,2025-2026,Levante
+2025-09-23,20:30,La Liga,Matchweek 6,Tue,Away,W,4,1,Levante,24,10,9,7,1,0,2025-2026,Real Madrid
+2025-09-23,20:30,La Liga,Matchweek 6,Tue,Home,L,1,2,Villarreal,16,2,17,3,2,0,2025-2026,Sevilla
+2025-09-23,20:30,La Liga,Matchweek 6,Tue,Away,W,2,1,Sevilla,12,5,14,3,3,0,2025-2026,Villarreal
+2025-09-24,18:00,La Liga,Matchweek 6,Wed,Away,D,1,1,Getafe,10,4,20,7,3,0,2025-2026,Alaves
+2025-09-24,18:00,La Liga,Matchweek 6,Wed,Home,D,1,1,Alaves,7,1,14,2,2,0,2025-2026,Getafe
+2025-09-24,20:30,La Liga,Matchweek 6,Wed,Home,W,3,2,Vallecano,20,8,6,8,3,0,2025-2026,Ath Madrid
+2025-09-24,20:30,La Liga,Matchweek 6,Wed,Away,L,0,1,Sociedad,7,3,15,2,2,0,2025-2026,Mallorca
+2025-09-24,20:30,La Liga,Matchweek 6,Wed,Home,W,1,0,Mallorca,17,4,13,11,2,0,2025-2026,Sociedad
+2025-09-24,20:30,La Liga,Matchweek 6,Wed,Away,L,2,3,Ath Madrid,9,3,12,6,4,0,2025-2026,Vallecano
+2025-09-25,18:30,La Liga,Matchweek 6,Thu,Away,D,1,1,Osasuna,12,4,13,3,2,0,2025-2026,Elche
+2025-09-25,18:30,La Liga,Matchweek 6,Thu,Home,D,1,1,Elche,9,2,19,2,2,0,2025-2026,Osasuna
+2025-09-25,20:30,La Liga,Matchweek 6,Thu,Away,W,3,1,Oviedo,22,10,6,9,0,0,2025-2026,Barcelona
+2025-09-25,20:30,La Liga,Matchweek 6,Thu,Home,L,1,3,Barcelona,7,3,10,6,1,0,2025-2026,Oviedo
+2025-09-26,20:00,La Liga,Matchweek 7,Fri,Away,D,0,0,Girona,20,5,11,4,1,0,2025-2026,Espanol
+2025-09-26,20:00,La Liga,Matchweek 7,Fri,Home,D,0,0,Espanol,12,3,9,8,0,0,2025-2026,Girona
+2025-09-27,13:00,La Liga,Matchweek 7,Sat,Home,D,1,1,Levante,11,4,15,6,4,0,2025-2026,Getafe
+2025-09-27,13:00,La Liga,Matchweek 7,Sat,Away,D,1,1,Getafe,11,3,16,2,3,0,2025-2026,Levante
+2025-09-27,15:15,La Liga,Matchweek 7,Sat,Home,W,5,2,Real Madrid,13,7,17,7,5,0,2025-2026,Ath Madrid
+2025-09-27,15:15,La Liga,Matchweek 7,Sat,Away,L,2,5,Ath Madrid,6,2,14,2,4,0,2025-2026,Real Madrid
+2025-09-27,17:30,La Liga,Matchweek 7,Sat,Away,L,0,1,Mallorca,12,3,18,8,3,0,2025-2026,Alaves
+2025-09-27,17:30,La Liga,Matchweek 7,Sat,Home,W,1,0,Alaves,12,3,14,4,2,0,2025-2026,Mallorca
+2025-09-27,20:00,La Liga,Matchweek 7,Sat,Away,L,0,1,Villarreal,16,4,11,5,0,0,2025-2026,Ath Bilbao
+2025-09-27,20:00,La Liga,Matchweek 7,Sat,Home,W,1,0,Ath Bilbao,14,5,13,6,2,0,2025-2026,Villarreal
+2025-09-28,13:00,La Liga,Matchweek 7,Sun,Away,W,1,0,Vallecano,4,1,15,4,2,0,2025-2026,Sevilla
+2025-09-28,13:00,La Liga,Matchweek 7,Sun,Home,L,0,1,Sevilla,18,6,12,12,3,1,2025-2026,Vallecano
+2025-09-28,15:15,La Liga,Matchweek 7,Sun,Away,L,1,2,Elche,8,2,20,2,3,0,2025-2026,Celta
+2025-09-28,15:15,La Liga,Matchweek 7,Sun,Home,W,2,1,Celta,17,8,12,7,3,0,2025-2026,Elche
+2025-09-28,17:30,La Liga,Matchweek 7,Sun,Home,W,2,1,Sociedad,22,12,6,12,1,0,2025-2026,Barcelona
+2025-09-28,17:30,La Liga,Matchweek 7,Sun,Away,L,1,2,Barcelona,7,2,12,1,2,0,2025-2026,Sociedad
+2025-09-28,20:00,La Liga,Matchweek 7,Sun,Home,W,2,0,Osasuna,12,6,6,5,0,0,2025-2026,Betis
+2025-09-28,20:00,La Liga,Matchweek 7,Sun,Away,L,0,2,Betis,12,1,7,5,1,0,2025-2026,Osasuna
+2025-09-30,19:00,La Liga,Matchweek 7,Tue,Away,W,2,1,Valencia,10,4,12,4,4,1,2025-2026,Oviedo
+2025-09-30,19:00,La Liga,Matchweek 7,Tue,Home,L,1,2,Oviedo,16,5,14,5,1,0,2025-2026,Valencia
+2025-10-03,20:00,La Liga,Matchweek 8,Fri,Away,L,1,2,Osasuna,6,2,14,6,4,0,2025-2026,Getafe
+2025-10-03,20:00,La Liga,Matchweek 8,Fri,Home,W,2,1,Getafe,7,3,11,1,1,0,2025-2026,Osasuna
+2025-10-04,13:00,La Liga,Matchweek 8,Sat,Away,W,2,0,Oviedo,14,5,10,3,2,0,2025-2026,Levante
+2025-10-04,13:00,La Liga,Matchweek 8,Sat,Home,L,0,2,Levante,13,2,10,9,2,0,2025-2026,Oviedo
+2025-10-04,15:15,La Liga,Matchweek 8,Sat,Home,W,2,1,Valencia,4,4,13,0,5,2,2025-2026,Girona
+2025-10-04,15:15,La Liga,Matchweek 8,Sat,Away,L,1,2,Girona,19,6,12,7,1,0,2025-2026,Valencia
+2025-10-04,17:30,La Liga,Matchweek 8,Sat,Home,W,2,1,Mallorca,18,5,16,7,5,0,2025-2026,Ath Bilbao
+2025-10-04,17:30,La Liga,Matchweek 8,Sat,Away,L,1,2,Ath Bilbao,7,2,13,2,6,1,2025-2026,Mallorca
+2025-10-04,20:00,La Liga,Matchweek 8,Sat,Home,W,3,1,Villarreal,26,7,9,4,2,0,2025-2026,Real Madrid
+2025-10-04,20:00,La Liga,Matchweek 8,Sat,Away,L,1,3,Real Madrid,9,2,14,0,4,1,2025-2026,Villarreal
+2025-10-05,13:00,La Liga,Matchweek 8,Sun,Home,W,3,1,Elche,25,5,13,14,3,0,2025-2026,Alaves
+2025-10-05,13:00,La Liga,Matchweek 8,Sun,Away,L,1,3,Alaves,6,3,9,4,1,1,2025-2026,Elche
+2025-10-05,15:15,La Liga,Matchweek 8,Sun,Away,L,1,4,Sevilla,17,8,9,6,5,0,2025-2026,Barcelona
+2025-10-05,15:15,La Liga,Matchweek 8,Sun,Home,W,4,1,Barcelona,13,5,18,7,7,0,2025-2026,Sevilla
+2025-10-05,17:30,La Liga,Matchweek 8,Sun,Away,W,2,1,Espanol,12,3,4,5,6,0,2025-2026,Betis
+2025-10-05,17:30,La Liga,Matchweek 8,Sun,Home,L,1,2,Betis,14,5,16,10,2,0,2025-2026,Espanol
+2025-10-05,17:30,La Liga,Matchweek 8,Sun,Home,L,0,1,Vallecano,10,3,13,7,1,0,2025-2026,Sociedad
+2025-10-05,17:30,La Liga,Matchweek 8,Sun,Away,W,1,0,Sociedad,7,2,21,5,2,0,2025-2026,Vallecano
+2025-10-05,20:00,La Liga,Matchweek 8,Sun,Away,D,1,1,Celta,6,1,10,3,3,1,2025-2026,Ath Madrid
+2025-10-05,20:00,La Liga,Matchweek 8,Sun,Home,D,1,1,Ath Madrid,18,4,7,6,1,0,2025-2026,Celta
+2025-10-17,20:00,La Liga,Matchweek 9,Fri,Away,W,2,0,Oviedo,19,10,8,5,1,0,2025-2026,Espanol
+2025-10-17,20:00,La Liga,Matchweek 9,Fri,Home,L,0,2,Espanol,13,4,9,3,2,0,2025-2026,Oviedo
+2025-10-18,13:00,La Liga,Matchweek 9,Sat,Away,W,3,1,Sevilla,7,6,13,2,1,0,2025-2026,Mallorca
+2025-10-18,13:00,La Liga,Matchweek 9,Sat,Home,L,1,3,Mallorca,13,4,16,9,2,0,2025-2026,Sevilla
+2025-10-18,15:15,La Liga,Matchweek 9,Sat,Home,W,2,1,Girona,27,9,10,11,1,0,2025-2026,Barcelona
+2025-10-18,15:15,La Liga,Matchweek 9,Sat,Away,L,1,2,Barcelona,11,4,7,5,2,0,2025-2026,Girona
+2025-10-18,17:30,La Liga,Matchweek 9,Sat,Away,D,2,2,Villarreal,16,3,10,6,1,0,2025-2026,Betis
+2025-10-18,17:30,La Liga,Matchweek 9,Sat,Home,D,2,2,Betis,7,3,13,5,1,0,2025-2026,Villarreal
+2025-10-18,20:00,La Liga,Matchweek 9,Sat,Home,W,1,0,Osasuna,18,9,10,4,1,0,2025-2026,Ath Madrid
+2025-10-18,20:00,La Liga,Matchweek 9,Sat,Away,L,0,1,Ath Madrid,9,2,11,2,3,0,2025-2026,Osasuna
+2025-10-19,13:00,La Liga,Matchweek 9,Sun,Away,D,0,0,Elche,4,1,20,2,3,0,2025-2026,Ath Bilbao
+2025-10-19,13:00,La Liga,Matchweek 9,Sun,Home,D,0,0,Ath Bilbao,15,5,14,6,2,0,2025-2026,Elche
+2025-10-19,15:15,La Liga,Matchweek 9,Sun,Home,D,1,1,Sociedad,4,1,10,1,4,1,2025-2026,Celta
+2025-10-19,15:15,La Liga,Matchweek 9,Sun,Away,D,1,1,Celta,17,7,20,10,3,0,2025-2026,Sociedad
+2025-10-19,17:30,La Liga,Matchweek 9,Sun,Home,L,0,3,Vallecano,17,4,6,11,0,0,2025-2026,Levante
+2025-10-19,17:30,La Liga,Matchweek 9,Sun,Away,W,3,0,Levante,10,5,18,4,1,0,2025-2026,Vallecano
+2025-10-19,20:00,La Liga,Matchweek 9,Sun,Home,L,0,1,Real Madrid,7,1,27,1,4,2,2025-2026,Getafe
+2025-10-19,20:00,La Liga,Matchweek 9,Sun,Away,W,1,0,Getafe,23,10,11,4,1,0,2025-2026,Real Madrid
+2025-10-20,20:00,La Liga,Matchweek 9,Mon,Home,D,0,0,Valencia,13,3,13,7,1,0,2025-2026,Alaves
+2025-10-20,20:00,La Liga,Matchweek 9,Mon,Away,D,0,0,Alaves,5,2,20,0,2,0,2025-2026,Valencia
+2025-10-24,20:00,La Liga,Matchweek 10,Fri,Away,L,1,2,Sociedad,6,1,14,9,3,0,2025-2026,Sevilla
+2025-10-24,20:00,La Liga,Matchweek 10,Fri,Home,W,2,1,Sevilla,5,3,19,1,1,0,2025-2026,Sociedad
+2025-10-25,13:00,La Liga,Matchweek 10,Sat,Home,D,3,3,Oviedo,8,6,13,11,4,0,2025-2026,Girona
+2025-10-25,13:00,La Liga,Matchweek 10,Sat,Away,D,3,3,Girona,10,5,16,4,3,0,2025-2026,Oviedo
+2025-10-25,15:15,La Liga,Matchweek 10,Sat,Away,L,0,1,Espanol,13,4,15,2,2,0,2025-2026,Elche
+2025-10-25,15:15,La Liga,Matchweek 10,Sat,Home,W,1,0,Elche,16,7,14,4,4,0,2025-2026,Espanol
+2025-10-25,17:30,La Liga,Matchweek 10,Sat,Home,L,0,1,Getafe,7,4,15,1,1,0,2025-2026,Ath Bilbao
+2025-10-25,17:30,La Liga,Matchweek 10,Sat,Away,W,1,0,Ath Bilbao,8,3,14,5,3,0,2025-2026,Getafe
+2025-10-25,20:00,La Liga,Matchweek 10,Sat,Home,L,0,2,Villarreal,15,3,13,7,2,0,2025-2026,Valencia
+2025-10-25,20:00,La Liga,Matchweek 10,Sat,Away,W,2,0,Valencia,12,5,14,5,4,0,2025-2026,Villarreal
+2025-10-26,13:00,La Liga,Matchweek 10,Sun,Away,D,1,1,Mallorca,13,5,13,4,2,0,2025-2026,Levante
+2025-10-26,13:00,La Liga,Matchweek 10,Sun,Home,D,1,1,Levante,20,4,8,5,3,0,2025-2026,Mallorca
+2025-10-26,15:15,La Liga,Matchweek 10,Sun,Away,L,1,2,Real Madrid,15,6,9,4,5,1,2025-2026,Barcelona
+2025-10-26,15:15,La Liga,Matchweek 10,Sun,Home,W,2,1,Barcelona,23,10,12,12,5,1,2025-2026,Real Madrid
+2025-10-26,17:30,La Liga,Matchweek 10,Sun,Away,W,3,2,Osasuna,11,5,13,2,4,0,2025-2026,Celta
+2025-10-26,17:30,La Liga,Matchweek 10,Sun,Home,L,2,3,Celta,17,7,10,6,3,0,2025-2026,Osasuna
+2025-10-26,20:00,La Liga,Matchweek 10,Sun,Away,L,0,1,Vallecano,12,2,11,5,3,0,2025-2026,Alaves
+2025-10-26,20:00,La Liga,Matchweek 10,Sun,Home,W,1,0,Alaves,15,5,13,7,1,0,2025-2026,Vallecano
+2025-10-27,20:00,La Liga,Matchweek 10,Mon,Away,W,2,0,Betis,9,4,18,5,1,0,2025-2026,Ath Madrid
+2025-10-27,20:00,La Liga,Matchweek 10,Mon,Home,L,0,2,Ath Madrid,17,5,9,2,2,0,2025-2026,Betis
+2025-10-31,20:00,La Liga,Matchweek 11,Fri,Home,W,2,1,Girona,12,4,17,8,1,0,2025-2026,Getafe
+2025-10-31,20:00,La Liga,Matchweek 11,Fri,Away,L,1,2,Getafe,8,4,15,3,1,0,2025-2026,Girona
+2025-11-01,13:00,La Liga,Matchweek 11,Sat,Away,L,0,4,Villarreal,13,3,11,5,1,0,2025-2026,Vallecano
+2025-11-01,13:00,La Liga,Matchweek 11,Sat,Home,W,4,0,Vallecano,16,7,7,3,1,0,2025-2026,Villarreal
+2025-11-01,15:15,La Liga,Matchweek 11,Sat,Home,W,3,0,Sevilla,15,6,9,9,0,0,2025-2026,Ath Madrid
+2025-11-01,15:15,La Liga,Matchweek 11,Sat,Away,L,0,3,Ath Madrid,10,2,12,4,3,0,2025-2026,Sevilla
+2025-11-01,17:30,La Liga,Matchweek 11,Sat,Away,L,2,3,Sociedad,11,4,8,2,3,0,2025-2026,Ath Bilbao
+2025-11-01,17:30,La Liga,Matchweek 11,Sat,Home,W,3,2,Ath Bilbao,9,5,20,6,2,0,2025-2026,Sociedad
+2025-11-01,20:00,La Liga,Matchweek 11,Sat,Home,W,4,0,Valencia,21,11,14,7,1,0,2025-2026,Real Madrid
+2025-11-01,20:00,La Liga,Matchweek 11,Sat,Away,L,0,4,Real Madrid,4,1,7,1,1,0,2025-2026,Valencia
+2025-11-02,13:00,La Liga,Matchweek 11,Sun,Away,W,2,1,Levante,20,6,12,4,3,0,2025-2026,Celta
+2025-11-02,13:00,La Liga,Matchweek 11,Sun,Home,L,1,2,Celta,9,3,10,4,2,1,2025-2026,Levante
+2025-11-02,15:15,La Liga,Matchweek 11,Sun,Home,W,2,1,Espanol,13,4,14,1,4,1,2025-2026,Alaves
+2025-11-02,15:15,La Liga,Matchweek 11,Sun,Away,L,1,2,Alaves,18,2,12,6,2,0,2025-2026,Espanol
+2025-11-02,17:30,La Liga,Matchweek 11,Sun,Home,W,3,1,Elche,17,5,12,6,0,0,2025-2026,Barcelona
+2025-11-02,17:30,La Liga,Matchweek 11,Sun,Away,L,1,3,Barcelona,9,3,16,3,1,0,2025-2026,Elche
+2025-11-02,20:00,La Liga,Matchweek 11,Sun,Home,W,3,0,Mallorca,15,8,9,4,0,0,2025-2026,Betis
+2025-11-02,20:00,La Liga,Matchweek 11,Sun,Away,L,0,3,Betis,14,1,8,5,3,0,2025-2026,Mallorca
+2025-11-03,20:00,La Liga,Matchweek 11,Mon,Away,D,0,0,Oviedo,11,5,17,2,1,0,2025-2026,Osasuna
+2025-11-03,20:00,La Liga,Matchweek 11,Mon,Home,D,0,0,Osasuna,8,2,17,4,3,0,2025-2026,Oviedo
+2025-11-07,20:00,La Liga,Matchweek 12,Fri,Home,D,1,1,Sociedad,12,3,14,1,1,0,2025-2026,Elche
+2025-11-07,20:00,La Liga,Matchweek 12,Fri,Away,D,1,1,Elche,13,5,15,3,3,0,2025-2026,Sociedad
+2025-11-08,13:00,La Liga,Matchweek 12,Sat,Away,L,0,1,Girona,14,5,15,1,3,0,2025-2026,Alaves
+2025-11-08,13:00,La Liga,Matchweek 12,Sat,Home,W,1,0,Alaves,10,2,9,6,0,0,2025-2026,Girona
+2025-11-08,15:15,La Liga,Matchweek 12,Sat,Away,L,0,1,Sevilla,9,3,13,6,3,0,2025-2026,Osasuna
+2025-11-08,15:15,La Liga,Matchweek 12,Sat,Home,W,1,0,Osasuna,10,4,21,5,5,0,2025-2026,Sevilla
+2025-11-08,17:30,La Liga,Matchweek 12,Sat,Home,W,3,1,Levante,25,10,5,21,3,0,2025-2026,Ath Madrid
+2025-11-08,17:30,La Liga,Matchweek 12,Sat,Away,L,1,3,Ath Madrid,6,3,6,4,1,0,2025-2026,Levante
+2025-11-08,20:00,La Liga,Matchweek 12,Sat,Home,L,0,2,Villarreal,14,3,9,4,0,0,2025-2026,Espanol
+2025-11-08,20:00,La Liga,Matchweek 12,Sat,Away,W,2,0,Espanol,9,3,9,2,2,0,2025-2026,Villarreal
+2025-11-09,13:00,La Liga,Matchweek 12,Sun,Home,W,1,0,Oviedo,21,7,12,7,1,0,2025-2026,Ath Bilbao
+2025-11-09,13:00,La Liga,Matchweek 12,Sun,Away,L,0,1,Ath Bilbao,5,2,8,4,1,0,2025-2026,Oviedo
+2025-11-09,15:15,La Liga,Matchweek 12,Sun,Away,D,0,0,Vallecano,21,5,7,8,2,0,2025-2026,Real Madrid
+2025-11-09,15:15,La Liga,Matchweek 12,Sun,Home,D,0,0,Real Madrid,13,2,17,5,3,0,2025-2026,Vallecano
+2025-11-09,17:30,La Liga,Matchweek 12,Sun,Away,D,1,1,Valencia,9,2,10,2,3,0,2025-2026,Betis
+2025-11-09,17:30,La Liga,Matchweek 12,Sun,Away,L,0,1,Mallorca,14,3,8,14,2,0,2025-2026,Getafe
+2025-11-09,17:30,La Liga,Matchweek 12,Sun,Home,W,1,0,Getafe,6,4,15,1,0,0,2025-2026,Mallorca
+2025-11-09,17:30,La Liga,Matchweek 12,Sun,Home,D,1,1,Betis,17,4,13,7,3,0,2025-2026,Valencia
+2025-11-09,20:00,La Liga,Matchweek 12,Sun,Away,W,4,2,Celta,21,9,10,5,5,1,2025-2026,Barcelona
+2025-11-09,20:00,La Liga,Matchweek 12,Sun,Home,L,2,4,Barcelona,5,3,13,2,1,0,2025-2026,Celta
+2025-11-21,20:00,La Liga,Matchweek 13,Fri,Away,L,0,1,Valencia,8,1,15,0,3,0,2025-2026,Levante
+2025-11-21,20:00,La Liga,Matchweek 13,Fri,Home,W,1,0,Levante,14,3,16,7,4,0,2025-2026,Valencia
+2025-11-22,13:00,La Liga,Matchweek 13,Sat,Home,L,0,1,Celta,5,2,21,4,2,0,2025-2026,Alaves
+2025-11-22,13:00,La Liga,Matchweek 13,Sat,Away,W,1,0,Alaves,7,4,15,2,2,0,2025-2026,Celta
+2025-11-22,15:15,La Liga,Matchweek 13,Sat,Away,L,0,4,Barcelona,13,2,9,7,2,1,2025-2026,Ath Bilbao
+2025-11-22,15:15,La Liga,Matchweek 13,Sat,Home,W,4,0,Ath Bilbao,19,7,9,5,0,0,2025-2026,Barcelona
+2025-11-22,17:30,La Liga,Matchweek 13,Sat,Home,L,1,3,Sociedad,14,4,13,3,3,1,2025-2026,Osasuna
+2025-11-22,17:30,La Liga,Matchweek 13,Sat,Away,W,3,1,Osasuna,19,9,7,3,2,0,2025-2026,Sociedad
+2025-11-22,20:00,La Liga,Matchweek 13,Sat,Away,L,1,2,Villarreal,9,3,8,1,2,0,2025-2026,Mallorca
+2025-11-22,20:00,La Liga,Matchweek 13,Sat,Home,W,2,1,Mallorca,14,7,17,3,2,0,2025-2026,Villarreal
+2025-11-23,13:00,La Liga,Matchweek 13,Sun,Home,D,0,0,Vallecano,8,3,11,5,1,1,2025-2026,Oviedo
+2025-11-23,13:00,La Liga,Matchweek 13,Sun,Away,D,0,0,Oviedo,11,3,13,6,2,1,2025-2026,Vallecano
+2025-11-23,15:15,La Liga,Matchweek 13,Sun,Home,D,1,1,Girona,23,7,10,8,3,1,2025-2026,Betis
+2025-11-23,15:15,La Liga,Matchweek 13,Sun,Away,D,1,1,Betis,11,4,16,0,4,0,2025-2026,Girona
+2025-11-23,17:30,La Liga,Matchweek 13,Sun,Away,W,1,0,Getafe,13,6,17,7,3,0,2025-2026,Ath Madrid
+2025-11-23,17:30,La Liga,Matchweek 13,Sun,Home,L,0,1,Ath Madrid,9,1,9,6,2,0,2025-2026,Getafe
+2025-11-23,20:00,La Liga,Matchweek 13,Sun,Home,D,2,2,Real Madrid,15,6,10,2,4,1,2025-2026,Elche
+2025-11-23,20:00,La Liga,Matchweek 13,Sun,Away,D,2,2,Elche,20,7,8,8,0,0,2025-2026,Real Madrid
+2025-11-24,20:00,La Liga,Matchweek 13,Mon,Home,W,2,1,Sevilla,8,5,18,4,4,0,2025-2026,Espanol
+2025-11-24,20:00,La Liga,Matchweek 13,Mon,Away,L,1,2,Espanol,22,6,7,13,1,0,2025-2026,Sevilla
+2025-11-28,20:00,La Liga,Matchweek 14,Fri,Away,L,0,1,Getafe,9,4,11,5,2,0,2025-2026,Elche
+2025-11-28,20:00,La Liga,Matchweek 14,Fri,Home,W,1,0,Elche,15,6,18,3,2,0,2025-2026,Getafe
+2025-11-29,13:00,La Liga,Matchweek 14,Sat,Home,D,2,2,Osasuna,7,4,10,2,3,0,2025-2026,Mallorca
+2025-11-29,13:00,La Liga,Matchweek 14,Sat,Away,D,2,2,Mallorca,14,2,15,8,4,0,2025-2026,Osasuna
+2025-11-29,15:15,La Liga,Matchweek 14,Sat,Away,L,1,3,Barcelona,9,2,17,4,3,0,2025-2026,Alaves
+2025-11-29,15:15,La Liga,Matchweek 14,Sat,Home,W,3,1,Alaves,18,6,10,5,2,0,2025-2026,Barcelona
+2025-11-29,17:30,La Liga,Matchweek 14,Sat,Away,W,2,0,Levante,14,4,19,2,2,0,2025-2026,Ath Bilbao
+2025-11-29,17:30,La Liga,Matchweek 14,Sat,Home,L,0,2,Ath Bilbao,11,4,11,4,3,0,2025-2026,Levante
+2025-11-29,20:00,La Liga,Matchweek 14,Sat,Home,W,2,0,Oviedo,14,8,5,7,0,0,2025-2026,Ath Madrid
+2025-11-29,20:00,La Liga,Matchweek 14,Sat,Away,L,0,2,Ath Madrid,12,1,8,2,1,0,2025-2026,Oviedo
+2025-11-30,13:00,La Liga,Matchweek 14,Sun,Home,L,2,3,Villarreal,18,7,15,8,3,0,2025-2026,Sociedad
+2025-11-30,13:00,La Liga,Matchweek 14,Sun,Away,W,3,2,Sociedad,10,5,18,2,7,0,2025-2026,Villarreal
+2025-11-30,15:15,La Liga,Matchweek 14,Sun,Away,W,2,0,Sevilla,9,4,22,4,3,0,2025-2026,Betis
+2025-11-30,15:15,La Liga,Matchweek 14,Sun,Home,L,0,2,Betis,9,3,14,6,2,1,2025-2026,Sevilla
+2025-11-30,17:30,La Liga,Matchweek 14,Sun,Home,L,0,1,Espanol,11,4,12,4,1,0,2025-2026,Celta
+2025-11-30,17:30,La Liga,Matchweek 14,Sun,Away,W,1,0,Celta,9,2,15,3,2,0,2025-2026,Espanol
+2025-11-30,20:00,La Liga,Matchweek 14,Sun,Home,D,1,1,Real Madrid,10,4,9,2,3,0,2025-2026,Girona
+2025-11-30,20:00,La Liga,Matchweek 14,Sun,Away,D,1,1,Girona,25,4,13,5,0,0,2025-2026,Real Madrid
+2025-12-01,20:00,La Liga,Matchweek 14,Mon,Away,D,1,1,Vallecano,10,2,9,5,1,0,2025-2026,Valencia
+2025-12-01,20:00,La Liga,Matchweek 14,Mon,Home,D,1,1,Valencia,19,7,11,10,1,0,2025-2026,Vallecano
+2025-12-02,20:00,La Liga,Matchweek 15,Tue,Away,L,1,3,Barcelona,7,2,9,4,1,0,2025-2026,Ath Madrid
+2025-12-02,20:00,La Liga,Matchweek 15,Tue,Home,W,3,1,Ath Madrid,19,6,12,5,1,0,2025-2026,Barcelona
+2025-12-03,18:00,La Liga,Matchweek 15,Wed,Home,L,0,3,Real Madrid,9,4,15,5,2,0,2025-2026,Ath Bilbao
+2025-12-03,18:00,La Liga,Matchweek 15,Wed,Away,W,3,0,Ath Bilbao,13,8,4,7,0,0,2025-2026,Real Madrid
+2025-12-05,20:00,La Liga,Matchweek 15,Fri,Away,D,0,0,Oviedo,13,6,12,5,1,0,2025-2026,Mallorca
+2025-12-05,20:00,La Liga,Matchweek 15,Fri,Home,D,0,0,Mallorca,15,3,14,8,2,2,2025-2026,Oviedo
+2025-12-06,13:00,La Liga,Matchweek 15,Sat,Away,L,0,2,Villarreal,6,0,15,3,4,1,2025-2026,Getafe
+2025-12-06,13:00,La Liga,Matchweek 15,Sat,Home,W,2,0,Getafe,10,5,19,5,2,0,2025-2026,Villarreal
+2025-12-06,15:15,La Liga,Matchweek 15,Sat,Home,W,1,0,Sociedad,14,3,20,5,2,0,2025-2026,Alaves
+2025-12-06,15:15,La Liga,Matchweek 15,Sat,Away,L,0,1,Alaves,10,1,16,8,2,0,2025-2026,Sociedad
+2025-12-06,17:30,La Liga,Matchweek 16,Sat,Away,W,5,3,Betis,16,8,9,7,2,0,2025-2026,Barcelona
+2025-12-06,17:30,La Liga,Matchweek 15,Sat,Home,L,3,5,Barcelona,17,5,14,7,5,0,2025-2026,Betis
+2025-12-06,20:00,La Liga,Matchweek 16,Sat,Home,W,1,0,Ath Madrid,14,3,9,5,3,0,2025-2026,Ath Bilbao
+2025-12-06,20:00,La Liga,Matchweek 16,Sat,Away,L,0,1,Ath Bilbao,7,3,12,6,2,0,2025-2026,Ath Madrid
+2025-12-07,13:00,La Liga,Matchweek 15,Sun,Home,W,3,0,Girona,11,6,18,2,0,0,2025-2026,Elche
+2025-12-07,13:00,La Liga,Matchweek 15,Sun,Away,L,0,3,Elche,8,4,13,2,3,0,2025-2026,Girona
+2025-12-07,15:15,La Liga,Matchweek 15,Sun,Away,D,1,1,Valencia,4,1,18,2,6,0,2025-2026,Sevilla
+2025-12-07,15:15,La Liga,Matchweek 15,Sun,Home,D,1,1,Sevilla,11,3,12,2,3,0,2025-2026,Valencia
+2025-12-07,17:30,La Liga,Matchweek 15,Sun,Home,W,1,0,Vallecano,9,2,19,6,4,1,2025-2026,Espanol
+2025-12-07,17:30,La Liga,Matchweek 15,Sun,Away,L,0,1,Espanol,6,2,22,2,8,1,2025-2026,Vallecano
+2025-12-07,20:00,La Liga,Matchweek 15,Sun,Away,W,2,0,Real Madrid,7,5,12,1,1,0,2025-2026,Celta
+2025-12-07,20:00,La Liga,Matchweek 16,Sun,Home,L,0,2,Celta,23,7,6,8,6,3,2025-2026,Real Madrid
+2025-12-08,20:00,La Liga,Matchweek 15,Mon,Away,L,0,2,Osasuna,11,5,7,3,2,0,2025-2026,Levante
+2025-12-08,20:00,La Liga,Matchweek 15,Mon,Home,W,2,0,Levante,14,6,15,3,2,0,2025-2026,Osasuna
+2025-12-12,20:00,La Liga,Matchweek 16,Fri,Away,W,2,1,Sociedad,14,3,5,3,2,0,2025-2026,Girona
+2025-12-12,20:00,La Liga,Matchweek 16,Fri,Home,L,1,2,Girona,9,4,20,4,1,0,2025-2026,Sociedad
+2025-12-13,13:00,La Liga,Matchweek 17,Sat,Home,W,2,1,Valencia,10,6,13,5,3,0,2025-2026,Ath Madrid
+2025-12-13,13:00,La Liga,Matchweek 16,Sat,Away,L,1,2,Ath Madrid,13,2,11,7,1,0,2025-2026,Valencia
+2025-12-13,15:15,La Liga,Matchweek 16,Sat,Away,L,1,3,Mallorca,9,0,13,1,0,0,2025-2026,Elche
+2025-12-13,15:15,La Liga,Matchweek 16,Sat,Home,W,3,1,Elche,15,8,13,1,3,0,2025-2026,Mallorca
+2025-12-13,17:30,La Liga,Matchweek 17,Sat,Home,W,2,0,Osasuna,24,7,5,14,0,0,2025-2026,Barcelona
+2025-12-13,17:30,La Liga,Matchweek 16,Sat,Away,L,0,2,Barcelona,3,2,8,1,3,0,2025-2026,Osasuna
+2025-12-13,20:00,La Liga,Matchweek 16,Sat,Away,W,1,0,Getafe,6,4,17,4,1,0,2025-2026,Espanol
+2025-12-13,20:00,La Liga,Matchweek 16,Sat,Home,L,0,1,Espanol,11,1,18,6,5,0,2025-2026,Getafe
+2025-12-14,13:00,La Liga,Matchweek 16,Sun,Away,L,0,4,Sevilla,5,1,12,3,2,1,2025-2026,Oviedo
+2025-12-14,13:00,La Liga,Matchweek 16,Sun,Home,W,4,0,Oviedo,13,7,11,5,1,0,2025-2026,Sevilla
+2025-12-14,15:15,La Liga,Matchweek 17,Sun,Away,L,0,2,Celta,14,2,13,4,2,0,2025-2026,Ath Bilbao
+2025-12-14,15:15,La Liga,Matchweek 16,Sun,Home,W,2,0,Ath Bilbao,5,2,11,1,3,0,2025-2026,Celta
+2025-12-14,20:00,La Liga,Matchweek 16,Sun,Home,L,1,2,Real Madrid,6,2,12,5,3,0,2025-2026,Alaves
+2025-12-14,20:00,La Liga,Matchweek 17,Sun,Away,W,2,1,Alaves,13,6,13,7,1,0,2025-2026,Real Madrid
+2025-12-15,20:00,La Liga,Matchweek 16,Mon,Away,D,0,0,Vallecano,13,6,7,3,1,0,2025-2026,Betis
+2025-12-15,20:00,La Liga,Matchweek 16,Mon,Home,D,0,0,Betis,23,7,10,8,4,0,2025-2026,Vallecano
+2025-12-19,20:00,La Liga,Matchweek 17,Fri,Away,D,1,1,Valencia,4,2,12,3,3,0,2025-2026,Mallorca
+2025-12-19,20:00,La Liga,Matchweek 17,Fri,Home,D,1,1,Mallorca,17,2,10,12,2,0,2025-2026,Valencia
+2025-12-20,13:00,La Liga,Matchweek 17,Sat,Away,D,0,0,Oviedo,6,2,7,3,1,0,2025-2026,Celta
+2025-12-20,13:00,La Liga,Matchweek 17,Sat,Home,D,0,0,Celta,10,3,14,4,2,0,2025-2026,Oviedo
+2025-12-20,15:15,La Liga,Matchweek 16,Sat,Home,D,1,1,Sociedad,13,3,16,7,6,0,2025-2026,Levante
+2025-12-20,15:15,La Liga,Matchweek 17,Sat,Away,D,1,1,Levante,18,6,13,10,2,0,2025-2026,Sociedad
+2025-12-20,17:30,La Liga,Matchweek 17,Sat,Away,L,0,3,Osasuna,7,3,11,0,2,0,2025-2026,Alaves
+2025-12-20,17:30,La Liga,Matchweek 17,Sat,Home,W,3,0,Alaves,16,7,16,9,2,0,2025-2026,Osasuna
+2025-12-20,20:00,La Liga,Matchweek 18,Sat,Home,W,2,0,Sevilla,18,8,13,6,2,0,2025-2026,Real Madrid
+2025-12-20,20:00,La Liga,Matchweek 17,Sat,Away,L,0,2,Real Madrid,14,5,19,5,5,1,2025-2026,Sevilla
+2025-12-21,13:00,La Liga,Matchweek 18,Sun,Away,W,3,0,Girona,14,6,14,4,0,0,2025-2026,Ath Madrid
+2025-12-21,13:00,La Liga,Matchweek 17,Sun,Home,L,0,3,Ath Madrid,9,2,7,3,2,0,2025-2026,Girona
+2025-12-21,15:15,La Liga,Matchweek 18,Sun,Away,W,2,0,Villarreal,19,5,8,10,1,0,2025-2026,Barcelona
+2025-12-21,15:15,La Liga,Matchweek 16,Sun,Home,L,0,2,Barcelona,14,5,10,5,1,1,2025-2026,Villarreal
+2025-12-21,17:30,La Liga,Matchweek 17,Sun,Home,W,4,0,Vallecano,18,6,15,4,2,0,2025-2026,Elche
+2025-12-21,17:30,La Liga,Matchweek 17,Sun,Away,L,0,4,Elche,18,8,11,5,3,0,2025-2026,Vallecano
+2025-12-21,20:00,La Liga,Matchweek 17,Sun,Home,W,4,0,Getafe,19,8,13,7,0,0,2025-2026,Betis
+2025-12-21,20:00,La Liga,Matchweek 17,Sun,Away,L,0,4,Betis,15,3,12,5,1,0,2025-2026,Getafe
+2025-12-22,20:00,La Liga,Matchweek 18,Mon,Home,L,1,2,Espanol,17,7,10,8,5,0,2025-2026,Ath Bilbao
+2025-12-22,20:00,La Liga,Matchweek 17,Mon,Away,W,2,1,Ath Bilbao,10,5,9,4,2,0,2025-2026,Espanol
+2026-01-02,20:00,La Liga,Matchweek 18,Fri,Away,D,1,1,Vallecano,12,4,10,2,4,0,2025-2026,Getafe
+2026-01-02,20:00,La Liga,Matchweek 18,Fri,Home,D,1,1,Getafe,13,4,13,3,3,0,2025-2026,Vallecano
+2026-01-03,13:00,La Liga,Matchweek 18,Sat,Home,W,4,1,Valencia,12,6,10,2,1,0,2025-2026,Celta
+2026-01-03,13:00,La Liga,Matchweek 18,Sat,Away,L,1,4,Celta,16,5,9,4,3,0,2025-2026,Valencia
+2026-01-03,15:15,La Liga,Matchweek 19,Sat,Away,D,1,1,Osasuna,16,6,19,9,3,0,2025-2026,Ath Bilbao
+2026-01-03,15:15,La Liga,Matchweek 18,Sat,Home,D,1,1,Ath Bilbao,11,4,12,1,3,0,2025-2026,Osasuna
+2026-01-03,17:30,La Liga,Matchweek 18,Sat,Home,L,1,3,Villarreal,15,2,8,6,3,0,2025-2026,Elche
+2026-01-03,17:30,La Liga,Matchweek 17,Sat,Away,W,3,1,Elche,12,4,11,2,3,0,2025-2026,Villarreal
+2026-01-03,20:00,La Liga,Matchweek 19,Sat,Away,W,2,0,Espanol,15,6,14,7,0,0,2025-2026,Barcelona
+2026-01-03,20:00,La Liga,Matchweek 18,Sat,Home,L,0,2,Barcelona,14,7,10,5,1,0,2025-2026,Espanol
+2026-01-04,13:00,La Liga,Matchweek 17,Sun,Away,W,3,0,Sevilla,6,4,10,1,4,0,2025-2026,Levante
+2026-01-04,13:00,La Liga,Matchweek 18,Sun,Home,L,0,3,Levante,15,7,16,5,3,0,2025-2026,Sevilla
+2026-01-04,15:15,La Liga,Matchweek 18,Sun,Away,L,1,5,Real Madrid,13,5,12,8,1,0,2025-2026,Betis
+2026-01-04,15:15,La Liga,Matchweek 19,Sun,Home,W,5,1,Betis,19,9,10,5,1,0,2025-2026,Real Madrid
+2026-01-04,17:30,La Liga,Matchweek 18,Sun,Home,D,1,1,Oviedo,18,7,11,6,3,1,2025-2026,Alaves
+2026-01-04,17:30,La Liga,Matchweek 18,Sun,Away,W,2,1,Mallorca,9,4,14,6,1,0,2025-2026,Girona
+2026-01-04,17:30,La Liga,Matchweek 18,Sun,Home,L,1,2,Girona,9,2,10,3,2,0,2025-2026,Mallorca
+2026-01-04,17:30,La Liga,Matchweek 18,Sun,Away,D,1,1,Alaves,18,6,20,7,3,1,2025-2026,Oviedo
+2026-01-04,20:00,La Liga,Matchweek 19,Sun,Away,D,1,1,Sociedad,10,2,13,6,2,0,2025-2026,Ath Madrid
+2026-01-04,20:00,La Liga,Matchweek 18,Sun,Home,D,1,1,Ath Madrid,18,8,11,6,3,0,2025-2026,Sociedad
+2026-01-09,20:00,La Liga,Matchweek 19,Fri,Home,L,1,2,Sociedad,6,3,17,2,2,0,2025-2026,Getafe
+2026-01-09,20:00,La Liga,Matchweek 19,Fri,Away,W,2,1,Getafe,12,5,17,4,1,0,2025-2026,Sociedad
+2026-01-10,13:00,La Liga,Matchweek 19,Sat,Away,D,1,1,Oviedo,15,6,8,2,1,0,2025-2026,Betis
+2026-01-10,13:00,La Liga,Matchweek 19,Sat,Home,D,1,1,Betis,13,3,15,5,3,0,2025-2026,Oviedo
+2026-01-10,15:15,La Liga,Matchweek 19,Sat,Away,L,1,3,Villarreal,16,5,14,6,2,0,2025-2026,Alaves
+2026-01-10,15:15,La Liga,Matchweek 18,Sat,Home,W,3,1,Alaves,11,4,10,1,0,0,2025-2026,Villarreal
+2026-01-10,17:30,La Liga,Matchweek 19,Sat,Home,W,1,0,Osasuna,8,4,14,2,2,1,2025-2026,Girona
+2026-01-10,17:30,La Liga,Matchweek 19,Sat,Away,L,0,1,Girona,13,1,13,1,6,0,2025-2026,Osasuna
+2026-01-10,20:00,La Liga,Matchweek 19,Sat,Away,D,1,1,Valencia,5,1,14,6,3,0,2025-2026,Elche
+2026-01-10,20:00,La Liga,Matchweek 19,Sat,Home,D,1,1,Elche,16,4,14,8,2,0,2025-2026,Valencia
+2026-01-11,13:00,La Liga,Matchweek 19,Sun,Away,L,1,2,Vallecano,9,2,14,5,5,0,2025-2026,Mallorca
+2026-01-11,13:00,La Liga,Matchweek 19,Sun,Home,W,2,1,Mallorca,14,5,14,6,1,1,2025-2026,Vallecano
+2026-01-11,15:15,La Liga,Matchweek 19,Sun,Away,D,1,1,Levante,19,3,9,3,1,0,2025-2026,Espanol
+2026-01-11,15:15,La Liga,Matchweek 18,Sun,Home,D,1,1,Espanol,8,2,10,4,0,0,2025-2026,Levante
+2026-01-12,20:00,La Liga,Matchweek 19,Mon,Away,W,1,0,Sevilla,9,7,16,1,3,0,2025-2026,Celta
+2026-01-12,20:00,La Liga,Matchweek 19,Mon,Home,L,0,1,Celta,7,2,16,6,3,0,2025-2026,Sevilla
+2026-01-16,20:00,La Liga,Matchweek 20,Fri,Home,L,0,2,Girona,14,2,17,5,5,0,2025-2026,Espanol
+2026-01-16,20:00,La Liga,Matchweek 20,Fri,Away,W,2,0,Espanol,7,4,17,4,5,0,2025-2026,Girona
+2026-01-17,13:00,La Liga,Matchweek 19,Sat,Away,L,0,2,Real Madrid,10,0,14,0,1,0,2025-2026,Levante
+2026-01-17,13:00,La Liga,Matchweek 20,Sat,Home,W,2,0,Levante,26,11,12,8,2,0,2025-2026,Real Madrid
+2026-01-17,15:15,La Liga,Matchweek 20,Sat,Away,L,2,3,Mallorca,21,11,10,7,5,2,2025-2026,Ath Bilbao
+2026-01-17,15:15,La Liga,Matchweek 20,Sat,Home,W,3,2,Ath Bilbao,18,9,10,3,1,0,2025-2026,Mallorca
+2026-01-17,17:30,La Liga,Matchweek 20,Sat,Home,W,3,2,Oviedo,16,5,14,3,1,1,2025-2026,Osasuna
+2026-01-17,17:30,La Liga,Matchweek 20,Sat,Away,L,2,3,Osasuna,13,5,15,6,4,0,2025-2026,Oviedo
+2026-01-17,20:00,La Liga,Matchweek 20,Sat,Home,W,2,0,Villarreal,15,6,14,2,3,0,2025-2026,Betis
+2026-01-17,20:00,La Liga,Matchweek 19,Sat,Away,L,0,2,Betis,9,3,13,3,2,1,2025-2026,Villarreal
+2026-01-18,13:00,La Liga,Matchweek 20,Sun,Home,L,0,1,Valencia,14,3,8,9,2,0,2025-2026,Getafe
+2026-01-18,13:00,La Liga,Matchweek 20,Sun,Away,W,1,0,Getafe,7,1,18,3,3,1,2025-2026,Valencia
+2026-01-18,15:15,La Liga,Matchweek 20,Sun,Away,L,0,1,Ath Madrid,8,0,5,6,1,0,2025-2026,Alaves
+2026-01-18,15:15,La Liga,Matchweek 20,Sun,Home,W,1,0,Alaves,23,6,13,6,1,0,2025-2026,Ath Madrid
+2026-01-18,17:30,La Liga,Matchweek 20,Sun,Home,W,3,0,Vallecano,11,7,7,5,4,0,2025-2026,Celta
+2026-01-18,17:30,La Liga,Matchweek 20,Sun,Away,L,0,3,Celta,14,3,14,7,3,1,2025-2026,Vallecano
+2026-01-18,20:00,La Liga,Matchweek 20,Sun,Away,L,1,2,Sociedad,25,9,8,8,3,0,2025-2026,Barcelona
+2026-01-18,20:00,La Liga,Matchweek 20,Sun,Home,W,2,1,Barcelona,8,6,13,6,3,1,2025-2026,Sociedad
+2026-01-19,20:00,La Liga,Matchweek 20,Mon,Home,D,2,2,Sevilla,10,5,11,9,3,0,2025-2026,Elche
+2026-01-19,20:00,La Liga,Matchweek 20,Mon,Away,D,2,2,Elche,25,8,12,7,1,0,2025-2026,Sevilla
+2026-01-23,20:00,La Liga,Matchweek 21,Fri,Away,L,2,3,Levante,6,3,13,1,3,0,2025-2026,Elche
+2026-01-23,20:00,La Liga,Matchweek 20,Fri,Home,W,3,2,Elche,26,6,13,9,2,0,2025-2026,Levante
+2026-01-24,13:00,La Liga,Matchweek 21,Sat,Away,W,3,1,Vallecano,14,5,15,3,2,0,2025-2026,Osasuna
+2026-01-24,13:00,La Liga,Matchweek 21,Sat,Home,L,1,3,Osasuna,11,4,12,4,2,0,2025-2026,Vallecano
+2026-01-24,15:15,La Liga,Matchweek 21,Sat,Away,L,2,3,Valencia,16,6,10,7,5,0,2025-2026,Espanol
+2026-01-24,15:15,La Liga,Matchweek 21,Sat,Home,W,3,2,Espanol,10,5,13,2,1,0,2025-2026,Valencia
+2026-01-24,17:30,La Liga,Matchweek 21,Sat,Away,L,1,2,Sevilla,15,3,12,5,1,0,2025-2026,Ath Bilbao
+2026-01-24,17:30,La Liga,Matchweek 21,Sat,Home,W,2,1,Ath Bilbao,10,7,16,5,2,0,2025-2026,Sevilla
+2026-01-24,20:00,La Liga,Matchweek 21,Sat,Away,W,2,0,Villarreal,14,4,10,6,1,0,2025-2026,Real Madrid
+2026-01-24,20:00,La Liga,Matchweek 20,Sat,Home,L,0,2,Real Madrid,8,1,19,6,3,0,2025-2026,Villarreal
+2026-01-25,13:00,La Liga,Matchweek 21,Sun,Home,W,3,0,Mallorca,17,8,10,10,2,0,2025-2026,Ath Madrid
+2026-01-25,13:00,La Liga,Matchweek 21,Sun,Away,L,0,3,Ath Madrid,6,1,7,3,1,0,2025-2026,Mallorca
+2026-01-25,15:15,La Liga,Matchweek 21,Sun,Home,W,3,0,Oviedo,15,7,8,10,1,0,2025-2026,Barcelona
+2026-01-25,15:15,La Liga,Matchweek 21,Sun,Away,L,0,3,Barcelona,12,3,21,1,2,0,2025-2026,Oviedo
+2026-01-25,17:30,La Liga,Matchweek 21,Sun,Away,L,1,3,Sociedad,17,4,13,9,1,0,2025-2026,Celta
+2026-01-25,17:30,La Liga,Matchweek 21,Sun,Home,W,3,1,Celta,10,4,7,2,1,1,2025-2026,Sociedad
+2026-01-25,20:00,La Liga,Matchweek 21,Sun,Home,W,2,1,Betis,17,9,17,6,1,0,2025-2026,Alaves
+2026-01-25,20:00,La Liga,Matchweek 21,Sun,Away,L,1,2,Alaves,18,4,11,4,1,0,2025-2026,Betis
+2026-01-26,20:00,La Liga,Matchweek 21,Mon,Away,D,1,1,Girona,8,2,15,4,3,0,2025-2026,Getafe
+2026-01-26,20:00,La Liga,Matchweek 21,Mon,Home,D,1,1,Getafe,12,4,13,3,5,0,2025-2026,Girona
+2026-01-30,20:00,La Liga,Matchweek 22,Fri,Away,W,2,1,Espanol,11,7,15,2,1,0,2025-2026,Alaves
+2026-01-30,20:00,La Liga,Matchweek 22,Fri,Home,L,1,2,Alaves,10,3,15,4,0,0,2025-2026,Espanol
+2026-01-31,13:00,La Liga,Matchweek 22,Sat,Away,L,0,1,Oviedo,9,1,16,4,1,0,2025-2026,Girona
+2026-01-31,13:00,La Liga,Matchweek 22,Sat,Home,W,1,0,Girona,8,4,12,4,1,0,2025-2026,Oviedo
+2026-01-31,15:15,La Liga,Matchweek 22,Sat,Home,D,2,2,Villarreal,15,5,15,6,2,0,2025-2026,Osasuna
+2026-01-31,15:15,La Liga,Matchweek 21,Sat,Away,D,2,2,Osasuna,5,4,7,2,2,0,2025-2026,Villarreal
+2026-01-31,17:30,La Liga,Matchweek 22,Sat,Away,D,0,0,Levante,10,4,12,7,1,0,2025-2026,Ath Madrid
+2026-01-31,17:30,La Liga,Matchweek 21,Sat,Home,D,0,0,Ath Madrid,10,2,11,4,2,0,2025-2026,Levante
+2026-01-31,20:00,La Liga,Matchweek 22,Sat,Away,W,3,1,Elche,30,8,9,8,1,0,2025-2026,Barcelona
+2026-01-31,20:00,La Liga,Matchweek 22,Sat,Home,L,1,3,Barcelona,9,3,15,2,2,0,2025-2026,Elche
+2026-02-01,13:00,La Liga,Matchweek 22,Sun,Home,W,2,1,Vallecano,16,6,6,9,2,0,2025-2026,Real Madrid
+2026-02-01,13:00,La Liga,Matchweek 22,Sun,Away,L,1,2,Real Madrid,11,4,18,4,8,2,2025-2026,Vallecano
+2026-02-01,15:15,La Liga,Matchweek 22,Sun,Home,W,2,1,Valencia,14,2,15,3,0,0,2025-2026,Betis
+2026-02-01,15:15,La Liga,Matchweek 22,Sun,Away,L,1,2,Betis,15,4,13,5,4,0,2025-2026,Valencia
+2026-02-01,17:30,La Liga,Matchweek 22,Sun,Away,D,0,0,Getafe,5,1,14,3,2,0,2025-2026,Celta
+2026-02-01,17:30,La Liga,Matchweek 22,Sun,Home,D,0,0,Celta,9,2,16,5,1,0,2025-2026,Getafe
+2026-02-01,20:00,La Liga,Matchweek 22,Sun,Home,D,1,1,Sociedad,19,4,14,6,4,0,2025-2026,Ath Bilbao
+2026-02-01,20:00,La Liga,Matchweek 22,Sun,Away,D,1,1,Ath Bilbao,9,6,14,3,2,1,2025-2026,Sociedad
+2026-02-02,20:00,La Liga,Matchweek 22,Mon,Home,W,4,1,Sevilla,11,7,16,4,1,0,2025-2026,Mallorca
+2026-02-02,20:00,La Liga,Matchweek 22,Mon,Away,L,1,4,Mallorca,15,5,8,8,1,0,2025-2026,Sevilla
+2026-02-06,20:00,La Liga,Matchweek 23,Fri,Home,L,1,2,Osasuna,18,4,9,7,2,0,2025-2026,Celta
+2026-02-06,20:00,La Liga,Matchweek 23,Fri,Away,W,2,1,Celta,8,2,14,3,2,0,2025-2026,Osasuna
+2026-02-07,15:15,La Liga,Matchweek 23,Sat,Home,W,3,0,Mallorca,24,7,7,12,0,0,2025-2026,Barcelona
+2026-02-07,15:15,La Liga,Matchweek 23,Sat,Away,L,0,3,Barcelona,9,4,9,3,0,0,2025-2026,Mallorca
+2026-02-07,20:00,La Liga,Matchweek 23,Sat,Away,L,1,3,Sociedad,11,5,8,4,4,0,2025-2026,Elche
+2026-02-07,20:00,La Liga,Matchweek 23,Sat,Home,W,3,1,Elche,11,3,14,2,0,0,2025-2026,Sociedad
+2026-02-08,13:00,La Liga,Matchweek 23,Sun,Home,L,0,2,Getafe,13,5,20,6,2,0,2025-2026,Alaves
+2026-02-08,13:00,La Liga,Matchweek 23,Sun,Away,W,2,0,Alaves,17,5,20,3,5,0,2025-2026,Getafe
+2026-02-08,15:15,La Liga,Matchweek 23,Sun,Home,W,4,2,Levante,22,7,17,4,2,0,2025-2026,Ath Bilbao
+2026-02-08,15:15,La Liga,Matchweek 23,Sun,Away,D,1,1,Sevilla,15,6,13,7,3,0,2025-2026,Girona
+2026-02-08,15:15,La Liga,Matchweek 22,Sun,Away,L,2,4,Ath Bilbao,6,3,10,3,1,1,2025-2026,Levante
+2026-02-08,15:15,La Liga,Matchweek 23,Sun,Home,D,1,1,Girona,11,3,16,5,3,0,2025-2026,Sevilla
+2026-02-08,17:30,La Liga,Matchweek 23,Sun,Home,L,0,1,Betis,10,5,12,7,3,0,2025-2026,Ath Madrid
+2026-02-08,17:30,La Liga,Matchweek 23,Sun,Away,W,1,0,Ath Madrid,8,4,3,3,1,0,2025-2026,Betis
+2026-02-08,20:00,La Liga,Matchweek 23,Sun,Away,W,2,0,Valencia,11,6,13,8,1,0,2025-2026,Real Madrid
+2026-02-08,20:00,La Liga,Matchweek 23,Sun,Home,L,0,2,Real Madrid,7,0,10,5,1,0,2025-2026,Valencia
+2026-02-09,20:00,La Liga,Matchweek 23,Mon,Away,L,1,4,Villarreal,9,2,11,8,3,0,2025-2026,Espanol
+2026-02-09,20:00,La Liga,Matchweek 22,Mon,Home,W,4,1,Espanol,10,3,18,5,3,0,2025-2026,Villarreal
+2026-02-13,20:00,La Liga,Matchweek 24,Fri,Home,D,0,0,Osasuna,17,5,13,10,2,0,2025-2026,Elche
+2026-02-13,20:00,La Liga,Matchweek 24,Fri,Away,D,0,0,Elche,6,2,18,3,4,0,2025-2026,Osasuna
+2026-02-14,13:00,La Liga,Matchweek 24,Sat,Away,D,2,2,Espanol,14,5,11,2,0,0,2025-2026,Celta
+2026-02-14,13:00,La Liga,Matchweek 24,Sat,Home,D,2,2,Celta,9,3,9,2,1,0,2025-2026,Espanol
+2026-02-14,15:15,La Liga,Matchweek 24,Sat,Home,W,2,1,Villarreal,5,2,21,3,2,0,2025-2026,Getafe
+2026-02-14,15:15,La Liga,Matchweek 23,Sat,Away,L,1,2,Getafe,8,2,17,4,3,0,2025-2026,Villarreal
+2026-02-14,17:30,La Liga,Matchweek 24,Sat,Away,D,1,1,Sevilla,12,1,13,3,0,0,2025-2026,Alaves
+2026-02-14,17:30,La Liga,Matchweek 24,Sat,Home,D,1,1,Alaves,4,2,16,0,5,2,2025-2026,Sevilla
+2026-02-14,20:00,La Liga,Matchweek 24,Sat,Home,W,4,1,Sociedad,11,5,10,4,1,0,2025-2026,Real Madrid
+2026-02-14,20:00,La Liga,Matchweek 24,Sat,Away,L,1,4,Real Madrid,13,3,9,6,1,0,2025-2026,Sociedad
+2026-02-15,13:00,La Liga,Matchweek 24,Sun,Away,W,2,1,Oviedo,13,4,20,3,3,0,2025-2026,Ath Bilbao
+2026-02-15,13:00,La Liga,Matchweek 23,Sun,Home,L,1,2,Ath Bilbao,7,1,8,2,2,0,2025-2026,Oviedo
+2026-02-15,15:15,La Liga,Matchweek 24,Sun,Away,L,0,3,Vallecano,9,3,13,8,3,0,2025-2026,Ath Madrid
+2026-02-15,15:15,La Liga,Matchweek 23,Sun,Home,W,3,0,Ath Madrid,13,9,10,4,1,0,2025-2026,Vallecano
+2026-02-15,17:30,La Liga,Matchweek 23,Sun,Home,L,0,2,Valencia,9,1,11,3,3,1,2025-2026,Levante
+2026-02-15,17:30,La Liga,Matchweek 24,Sun,Away,W,2,0,Levante,5,2,10,2,2,0,2025-2026,Valencia
+2026-02-15,20:00,La Liga,Matchweek 24,Sun,Away,W,2,1,Mallorca,17,8,10,3,3,0,2025-2026,Betis
+2026-02-15,20:00,La Liga,Matchweek 24,Sun,Home,L,1,2,Betis,14,3,16,7,4,0,2025-2026,Mallorca
+2026-02-16,20:00,La Liga,Matchweek 24,Mon,Away,L,1,2,Girona,27,4,6,7,2,0,2025-2026,Barcelona
+2026-02-16,20:00,La Liga,Matchweek 24,Mon,Home,W,2,1,Barcelona,13,9,10,3,1,1,2025-2026,Girona
+2026-02-18,19:00,La Liga,Matchweek 24,Wed,Home,L,0,1,Villarreal,16,4,13,3,3,0,2025-2026,Levante
+2026-02-18,19:00,La Liga,Matchweek 24,Wed,Away,W,1,0,Levante,15,6,20,2,4,0,2025-2026,Villarreal
+2026-02-20,20:00,La Liga,Matchweek 25,Fri,Home,W,2,1,Elche,18,8,18,4,3,0,2025-2026,Ath Bilbao
+2026-02-20,20:00,La Liga,Matchweek 25,Fri,Away,L,1,2,Ath Bilbao,2,2,9,1,3,0,2025-2026,Elche
+2026-02-21,13:00,La Liga,Matchweek 24,Sat,Away,D,3,3,Sociedad,14,6,16,6,1,0,2025-2026,Oviedo
+2026-02-21,13:00,La Liga,Matchweek 25,Sat,Home,D,3,3,Oviedo,15,8,13,7,2,0,2025-2026,Sociedad
+2026-02-21,15:15,La Liga,Matchweek 25,Sat,Home,D,1,1,Vallecano,14,3,14,3,4,0,2025-2026,Betis
+2026-02-21,15:15,La Liga,Matchweek 24,Sat,Away,D,1,1,Betis,12,3,13,5,3,0,2025-2026,Vallecano
+2026-02-21,17:30,La Liga,Matchweek 25,Sat,Home,W,2,1,Real Madrid,13,2,19,3,2,0,2025-2026,Osasuna
+2026-02-21,17:30,La Liga,Matchweek 25,Sat,Away,L,1,2,Osasuna,15,5,10,7,4,0,2025-2026,Real Madrid
+2026-02-21,20:00,La Liga,Matchweek 25,Sat,Home,W,4,2,Espanol,18,9,8,5,0,0,2025-2026,Ath Madrid
+2026-02-21,20:00,La Liga,Matchweek 25,Sat,Away,L,2,4,Ath Madrid,8,2,10,3,1,0,2025-2026,Espanol
+2026-02-22,13:00,La Liga,Matchweek 25,Sun,Home,L,0,1,Sevilla,6,3,5,2,1,1,2025-2026,Getafe
+2026-02-22,13:00,La Liga,Matchweek 25,Sun,Away,W,1,0,Getafe,6,1,18,2,1,0,2025-2026,Sevilla
+2026-02-22,15:15,La Liga,Matchweek 25,Sun,Home,W,3,0,Levante,22,9,12,13,2,0,2025-2026,Barcelona
+2026-02-22,15:15,La Liga,Matchweek 25,Sun,Away,L,0,3,Barcelona,5,2,10,6,1,0,2025-2026,Levante
+2026-02-22,17:30,La Liga,Matchweek 25,Sun,Home,W,2,0,Mallorca,20,7,11,7,1,0,2025-2026,Celta
+2026-02-22,17:30,La Liga,Matchweek 25,Sun,Away,L,0,2,Celta,1,0,10,2,5,0,2025-2026,Mallorca
+2026-02-22,20:00,La Liga,Matchweek 25,Sun,Away,L,1,2,Villarreal,8,3,16,4,4,0,2025-2026,Valencia
+2026-02-22,20:00,La Liga,Matchweek 25,Sun,Home,W,2,1,Valencia,12,5,7,5,2,0,2025-2026,Villarreal
+2026-02-23,20:00,La Liga,Matchweek 25,Mon,Home,D,2,2,Girona,17,6,18,7,2,0,2025-2026,Alaves
+2026-02-23,20:00,La Liga,Matchweek 25,Mon,Away,D,2,2,Alaves,10,5,6,6,2,0,2025-2026,Girona
+2026-02-27,20:00,La Liga,Matchweek 26,Fri,Away,L,0,2,Levante,17,7,16,6,6,1,2025-2026,Alaves
+2026-02-27,20:00,La Liga,Matchweek 26,Fri,Home,W,2,0,Alaves,22,5,14,10,1,0,2025-2026,Levante
+2026-02-28,13:00,La Liga,Matchweek 26,Sat,Away,D,1,1,Vallecano,8,2,17,4,3,0,2025-2026,Ath Bilbao
+2026-02-28,13:00,La Liga,Matchweek 25,Sat,Home,D,1,1,Ath Bilbao,15,7,8,5,2,0,2025-2026,Vallecano
+2026-02-28,15:15,La Liga,Matchweek 26,Sat,Home,W,4,1,Villarreal,19,8,11,3,2,0,2025-2026,Barcelona
+2026-02-28,15:15,La Liga,Matchweek 26,Sat,Away,L,1,4,Barcelona,6,1,9,2,1,0,2025-2026,Villarreal
+2026-02-28,17:30,La Liga,Matchweek 26,Sat,Home,L,0,1,Sociedad,6,1,6,3,0,0,2025-2026,Mallorca
+2026-02-28,17:30,La Liga,Matchweek 26,Sat,Away,W,1,0,Mallorca,12,2,22,7,2,0,2025-2026,Sociedad
+2026-02-28,20:00,La Liga,Matchweek 26,Sat,Away,W,1,0,Oviedo,12,1,6,3,2,0,2025-2026,Ath Madrid
+2026-02-28,20:00,La Liga,Matchweek 25,Sat,Home,L,0,1,Ath Madrid,16,6,12,8,2,0,2025-2026,Oviedo
+2026-03-01,13:00,La Liga,Matchweek 26,Sun,Home,D,2,2,Espanol,17,9,14,3,1,0,2025-2026,Elche
+2026-03-01,13:00,La Liga,Matchweek 26,Sun,Away,D,2,2,Elche,9,4,23,1,6,1,2025-2026,Espanol
+2026-03-01,15:15,La Liga,Matchweek 26,Sun,Away,L,0,1,Valencia,8,0,13,4,3,0,2025-2026,Osasuna
+2026-03-01,15:15,La Liga,Matchweek 26,Sun,Home,W,1,0,Osasuna,14,1,14,5,3,0,2025-2026,Valencia
+2026-03-01,17:30,La Liga,Matchweek 26,Sun,Home,D,2,2,Sevilla,9,2,12,4,3,0,2025-2026,Betis
+2026-03-01,17:30,La Liga,Matchweek 26,Sun,Away,D,2,2,Betis,14,6,15,3,3,0,2025-2026,Sevilla
+2026-03-01,20:00,La Liga,Matchweek 26,Sun,Away,W,2,1,Girona,7,5,8,6,2,0,2025-2026,Celta
+2026-03-01,20:00,La Liga,Matchweek 26,Sun,Home,L,1,2,Celta,15,7,9,10,2,0,2025-2026,Girona
+2026-03-02,20:00,La Liga,Matchweek 26,Mon,Away,W,1,0,Real Madrid,9,3,17,2,6,1,2025-2026,Getafe
+2026-03-02,20:00,La Liga,Matchweek 26,Mon,Home,L,0,1,Getafe,18,7,11,10,4,1,2025-2026,Real Madrid
+2026-03-04,18:00,La Liga,Matchweek 26,Wed,Away,L,0,3,Vallecano,8,2,10,2,2,0,2025-2026,Oviedo
+2026-03-04,18:00,La Liga,Matchweek 26,Wed,Home,W,3,0,Oviedo,19,7,10,12,0,0,2025-2026,Vallecano
+2026-03-06,20:00,La Liga,Matchweek 27,Fri,Home,L,1,2,Real Madrid,8,4,4,1,1,0,2025-2026,Celta
+2026-03-06,20:00,La Liga,Matchweek 27,Fri,Away,W,2,1,Celta,14,3,12,6,2,0,2025-2026,Real Madrid
+2026-03-07,13:00,La Liga,Matchweek 27,Sat,Away,D,2,2,Osasuna,8,4,12,0,5,1,2025-2026,Mallorca
+2026-03-07,13:00,La Liga,Matchweek 27,Sat,Home,D,2,2,Mallorca,22,5,11,8,2,1,2025-2026,Osasuna
+2026-03-07,15:15,La Liga,Matchweek 27,Sat,Away,D,1,1,Levante,22,5,9,3,2,0,2025-2026,Girona
+2026-03-07,15:15,La Liga,Matchweek 27,Sat,Home,D,1,1,Girona,14,4,15,2,2,1,2025-2026,Levante
+2026-03-07,17:30,La Liga,Matchweek 27,Sat,Home,W,3,2,Sociedad,24,9,6,8,1,0,2025-2026,Ath Madrid
+2026-03-07,17:30,La Liga,Matchweek 27,Sat,Away,L,2,3,Ath Madrid,7,3,10,1,1,0,2025-2026,Sociedad
+2026-03-07,20:00,La Liga,Matchweek 27,Sat,Home,L,0,1,Barcelona,10,3,11,2,2,0,2025-2026,Ath Bilbao
+2026-03-07,20:00,La Liga,Matchweek 27,Sat,Away,W,1,0,Ath Bilbao,7,2,9,4,1,0,2025-2026,Barcelona
+2026-03-08,13:00,La Liga,Matchweek 27,Sun,Away,L,1,2,Villarreal,13,6,16,6,2,0,2025-2026,Elche
+2026-03-08,13:00,La Liga,Matchweek 27,Sun,Home,W,2,1,Elche,16,7,11,4,1,0,2025-2026,Villarreal
+2026-03-08,15:15,La Liga,Matchweek 27,Sun,Away,L,0,2,Getafe,14,5,8,8,2,0,2025-2026,Betis
+2026-03-08,15:15,La Liga,Matchweek 27,Sun,Home,W,2,0,Betis,9,5,19,3,3,0,2025-2026,Getafe
+2026-03-08,17:30,La Liga,Matchweek 27,Sun,Home,D,1,1,Vallecano,11,2,13,6,1,0,2025-2026,Sevilla
+2026-03-08,17:30,La Liga,Matchweek 27,Sun,Away,D,1,1,Sevilla,9,2,15,2,3,0,2025-2026,Vallecano
+2026-03-08,20:00,La Liga,Matchweek 27,Sun,Away,L,2,3,Valencia,10,4,17,2,6,2,2025-2026,Alaves
+2026-03-08,20:00,La Liga,Matchweek 27,Sun,Home,W,3,2,Alaves,19,8,9,10,1,0,2025-2026,Valencia
+2026-03-09,20:00,La Liga,Matchweek 27,Mon,Home,D,1,1,Oviedo,28,9,19,8,3,0,2025-2026,Espanol
+2026-03-09,20:00,La Liga,Matchweek 27,Mon,Away,D,1,1,Espanol,6,3,13,0,2,0,2025-2026,Oviedo
+2026-03-13,20:00,La Liga,Matchweek 28,Fri,Home,D,1,1,Villarreal,8,0,19,5,4,0,2025-2026,Alaves
+2026-03-13,20:00,La Liga,Matchweek 28,Fri,Away,D,1,1,Alaves,10,4,11,2,1,0,2025-2026,Villarreal
+2026-03-14,13:00,La Liga,Matchweek 28,Sat,Away,L,0,3,Girona,20,9,16,9,2,0,2025-2026,Ath Bilbao
+2026-03-14,13:00,La Liga,Matchweek 28,Sat,Home,W,3,0,Ath Bilbao,14,6,8,2,0,0,2025-2026,Girona
+2026-03-14,15:15,La Liga,Matchweek 28,Sat,Home,W,1,0,Getafe,16,5,11,10,3,0,2025-2026,Ath Madrid
+2026-03-14,15:15,La Liga,Matchweek 28,Sat,Away,L,0,1,Ath Madrid,7,3,11,3,3,1,2025-2026,Getafe
+2026-03-14,17:30,La Liga,Matchweek 28,Sat,Home,W,1,0,Valencia,11,6,12,4,3,0,2025-2026,Oviedo
+2026-03-14,17:30,La Liga,Matchweek 28,Sat,Away,L,0,1,Oviedo,13,2,11,7,2,0,2025-2026,Valencia
+2026-03-14,20:00,La Liga,Matchweek 28,Sat,Away,L,1,4,Real Madrid,11,1,21,4,3,0,2025-2026,Elche
+2026-03-14,20:00,La Liga,Matchweek 28,Sat,Home,W,4,1,Elche,14,6,11,5,1,0,2025-2026,Real Madrid
+2026-03-15,13:00,La Liga,Matchweek 28,Sun,Away,L,1,2,Mallorca,10,2,14,6,3,1,2025-2026,Espanol
+2026-03-15,13:00,La Liga,Matchweek 28,Sun,Home,W,2,1,Espanol,26,12,11,5,3,0,2025-2026,Mallorca
+2026-03-15,15:15,La Liga,Matchweek 28,Sun,Home,W,5,2,Sevilla,13,8,5,3,0,0,2025-2026,Barcelona
+2026-03-15,15:15,La Liga,Matchweek 28,Sun,Away,L,2,5,Barcelona,8,4,14,4,1,0,2025-2026,Sevilla
+2026-03-15,17:30,La Liga,Matchweek 28,Sun,Home,D,1,1,Celta,19,6,11,3,2,0,2025-2026,Betis
+2026-03-15,17:30,La Liga,Matchweek 28,Sun,Away,D,1,1,Betis,7,3,16,4,3,0,2025-2026,Celta
+2026-03-15,20:00,La Liga,Matchweek 28,Sun,Away,L,1,3,Sociedad,13,5,11,5,0,0,2025-2026,Osasuna
+2026-03-15,20:00,La Liga,Matchweek 28,Sun,Home,W,3,1,Osasuna,14,6,16,3,3,0,2025-2026,Sociedad
+2026-03-16,20:00,La Liga,Matchweek 28,Mon,Away,D,1,1,Vallecano,19,5,13,6,5,0,2025-2026,Levante
+2026-03-16,20:00,La Liga,Matchweek 28,Mon,Home,D,1,1,Levante,18,4,10,5,3,1,2025-2026,Vallecano
+2026-03-20,20:00,La Liga,Matchweek 29,Fri,Away,L,1,3,Villarreal,11,4,11,5,2,0,2025-2026,Sociedad
+2026-03-20,20:00,La Liga,Matchweek 29,Fri,Home,W,3,1,Sociedad,21,10,10,4,0,0,2025-2026,Villarreal
+2026-03-21,13:00,La Liga,Matchweek 29,Sat,Home,W,2,1,Mallorca,13,4,12,2,2,0,2025-2026,Elche
+2026-03-21,13:00,La Liga,Matchweek 29,Sat,Away,L,1,2,Elche,11,4,11,2,2,0,2025-2026,Mallorca
+2026-03-21,15:15,La Liga,Matchweek 29,Sat,Home,L,1,2,Getafe,15,5,14,12,2,0,2025-2026,Espanol
+2026-03-21,15:15,La Liga,Matchweek 29,Sat,Away,W,2,1,Espanol,10,5,20,9,7,0,2025-2026,Getafe
+2026-03-21,17:30,La Liga,Matchweek 29,Sat,Away,L,0,1,Osasuna,5,0,7,2,1,0,2025-2026,Girona
+2026-03-21,17:30,La Liga,Matchweek 29,Sat,Home,W,4,2,Oviedo,20,8,17,3,2,0,2025-2026,Levante
+2026-03-21,17:30,La Liga,Matchweek 29,Sat,Home,W,1,0,Girona,19,11,18,6,2,0,2025-2026,Osasuna
+2026-03-21,17:30,La Liga,Matchweek 29,Sat,Away,L,2,4,Levante,10,2,18,1,3,0,2025-2026,Oviedo
+2026-03-21,20:00,La Liga,Matchweek 29,Sat,Home,L,0,2,Valencia,13,2,13,1,2,0,2025-2026,Sevilla
+2026-03-21,20:00,La Liga,Matchweek 29,Sat,Away,W,2,0,Sevilla,9,4,6,3,1,0,2025-2026,Valencia
+2026-03-22,13:00,La Liga,Matchweek 29,Sun,Home,W,1,0,Vallecano,15,4,12,6,3,0,2025-2026,Barcelona
+2026-03-22,13:00,La Liga,Matchweek 29,Sun,Away,L,0,1,Barcelona,8,4,11,9,4,0,2025-2026,Vallecano
+2026-03-22,15:15,La Liga,Matchweek 29,Sun,Away,W,4,3,Celta,14,6,16,1,2,0,2025-2026,Alaves
+2026-03-22,15:15,La Liga,Matchweek 29,Sun,Home,L,3,4,Alaves,12,5,13,4,2,0,2025-2026,Celta
+2026-03-22,17:30,La Liga,Matchweek 29,Sun,Home,W,2,1,Betis,11,6,10,6,1,0,2025-2026,Ath Bilbao
+2026-03-22,17:30,La Liga,Matchweek 29,Sun,Away,L,1,2,Ath Bilbao,11,3,6,5,1,0,2025-2026,Betis
+2026-03-22,20:00,La Liga,Matchweek 29,Sun,Away,L,2,3,Real Madrid,13,7,15,1,4,0,2025-2026,Ath Madrid
+2026-03-22,20:00,La Liga,Matchweek 29,Sun,Home,W,3,2,Ath Madrid,17,10,2,4,1,1,2025-2026,Real Madrid
+2026-04-03,20:00,La Liga,Matchweek 30,Fri,Away,L,0,1,Vallecano,9,4,9,4,4,1,2025-2026,Elche
+2026-04-03,20:00,La Liga,Matchweek 30,Fri,Home,W,1,0,Elche,21,5,17,9,0,0,2025-2026,Vallecano
+2026-04-04,13:00,La Liga,Matchweek 30,Sat,Away,L,0,2,Sociedad,8,4,15,5,3,0,2025-2026,Levante
+2026-04-04,13:00,La Liga,Matchweek 30,Sat,Home,W,2,0,Levante,18,5,11,11,2,0,2025-2026,Sociedad
+2026-04-04,15:15,La Liga,Matchweek 30,Sat,Home,W,2,1,Real Madrid,6,2,16,6,3,0,2025-2026,Mallorca
+2026-04-04,15:15,La Liga,Matchweek 30,Sat,Away,L,1,2,Mallorca,15,6,13,4,2,0,2025-2026,Real Madrid
+2026-04-04,17:30,La Liga,Matchweek 30,Sat,Home,D,0,0,Espanol,19,6,12,4,1,0,2025-2026,Betis
+2026-04-04,17:30,La Liga,Matchweek 30,Sat,Away,D,0,0,Betis,8,1,18,3,3,0,2025-2026,Espanol
+2026-04-04,20:00,La Liga,Matchweek 30,Sat,Home,L,1,2,Barcelona,6,2,15,1,6,1,2025-2026,Ath Madrid
+2026-04-04,20:00,La Liga,Matchweek 30,Sat,Away,W,2,1,Ath Madrid,22,8,11,9,2,0,2025-2026,Barcelona
+2026-04-05,13:00,La Liga,Matchweek 30,Sun,Away,L,0,2,Getafe,5,0,11,3,1,0,2025-2026,Ath Bilbao
+2026-04-05,13:00,La Liga,Matchweek 30,Sun,Home,W,2,0,Ath Bilbao,10,6,11,4,3,0,2025-2026,Getafe
+2026-04-05,15:15,La Liga,Matchweek 30,Sun,Away,W,3,2,Valencia,9,5,21,0,3,0,2025-2026,Celta
+2026-04-05,15:15,La Liga,Matchweek 30,Sun,Home,L,2,3,Celta,13,4,14,6,1,0,2025-2026,Valencia
+2026-04-05,17:30,La Liga,Matchweek 30,Sun,Home,W,1,0,Sevilla,7,4,11,5,5,0,2025-2026,Oviedo
+2026-04-05,17:30,La Liga,Matchweek 30,Sun,Away,L,0,1,Oviedo,9,0,12,9,3,1,2025-2026,Sevilla
+2026-04-05,20:00,La Liga,Matchweek 30,Sun,Home,D,2,2,Osasuna,18,6,7,7,2,0,2025-2026,Alaves
+2026-04-05,20:00,La Liga,Matchweek 30,Sun,Away,D,2,2,Alaves,8,5,17,1,5,0,2025-2026,Osasuna
+2026-04-06,20:00,La Liga,Matchweek 30,Mon,Home,W,1,0,Villarreal,10,2,8,7,2,0,2025-2026,Girona
+2026-04-06,20:00,La Liga,Matchweek 30,Mon,Away,L,0,1,Girona,9,0,9,4,2,0,2025-2026,Villarreal
+2026-04-10,20:00,La Liga,Matchweek 31,Fri,Away,D,1,1,Real Madrid,10,2,13,1,1,0,2025-2026,Girona
+2026-04-10,20:00,La Liga,Matchweek 31,Fri,Home,D,1,1,Girona,22,9,9,10,2,0,2025-2026,Real Madrid
+2026-04-11,13:00,La Liga,Matchweek 31,Sat,Away,D,3,3,Sociedad,12,2,18,5,4,0,2025-2026,Alaves
+2026-04-11,13:00,La Liga,Matchweek 31,Sat,Home,D,3,3,Alaves,12,4,11,9,2,1,2025-2026,Sociedad
+2026-04-11,15:15,La Liga,Matchweek 31,Sat,Home,W,1,0,Valencia,8,2,15,5,1,0,2025-2026,Elche
+2026-04-11,15:15,La Liga,Matchweek 31,Sat,Away,L,0,1,Elche,22,8,18,9,1,0,2025-2026,Valencia
+2026-04-11,17:30,La Liga,Matchweek 31,Sat,Home,W,4,1,Espanol,20,10,10,7,3,0,2025-2026,Barcelona
+2026-04-11,17:30,La Liga,Matchweek 31,Sat,Away,L,1,4,Barcelona,10,2,18,5,6,0,2025-2026,Espanol
+2026-04-11,20:00,La Liga,Matchweek 31,Sat,Away,L,1,2,Sevilla,13,2,12,6,4,0,2025-2026,Ath Madrid
+2026-04-11,20:00,La Liga,Matchweek 31,Sat,Home,W,2,1,Ath Madrid,11,2,7,6,4,0,2025-2026,Sevilla
+2026-04-12,13:00,La Liga,Matchweek 31,Sun,Away,D,1,1,Osasuna,8,3,12,3,4,0,2025-2026,Betis
+2026-04-12,13:00,La Liga,Matchweek 31,Sun,Home,D,1,1,Betis,12,4,14,6,3,0,2025-2026,Osasuna
+2026-04-12,15:15,La Liga,Matchweek 31,Sun,Home,W,3,0,Vallecano,12,4,13,6,1,0,2025-2026,Mallorca
+2026-04-12,15:15,La Liga,Matchweek 31,Sun,Away,L,0,3,Mallorca,17,3,11,7,4,0,2025-2026,Vallecano
+2026-04-12,17:30,La Liga,Matchweek 31,Sun,Home,L,0,3,Oviedo,9,6,9,4,1,0,2025-2026,Celta
+2026-04-12,17:30,La Liga,Matchweek 31,Sun,Away,W,3,0,Celta,8,5,13,1,2,0,2025-2026,Oviedo
+2026-04-12,20:00,La Liga,Matchweek 31,Sun,Home,L,1,2,Villarreal,18,6,15,15,2,0,2025-2026,Ath Bilbao
+2026-04-12,20:00,La Liga,Matchweek 31,Sun,Away,W,2,1,Ath Bilbao,12,6,8,3,3,0,2025-2026,Villarreal
+2026-04-13,20:00,La Liga,Matchweek 31,Mon,Away,L,0,1,Levante,5,1,24,2,7,1,2025-2026,Getafe
+2026-04-13,20:00,La Liga,Matchweek 31,Mon,Home,W,1,0,Getafe,22,4,12,8,2,0,2025-2026,Levante
+2026-04-21,18:00,La Liga,Matchweek 32,Tue,Home,W,1,0,Osasuna,7,2,12,5,3,1,2025-2026,Ath Bilbao
+2026-04-21,18:00,La Liga,Matchweek 32,Tue,Home,D,1,1,Valencia,20,8,9,7,0,0,2025-2026,Mallorca
+2026-04-21,18:00,La Liga,Matchweek 32,Tue,Away,L,0,1,Ath Bilbao,8,3,11,4,2,0,2025-2026,Osasuna
+2026-04-21,18:00,La Liga,Matchweek 32,Tue,Away,D,1,1,Mallorca,10,3,12,4,2,0,2025-2026,Valencia
+2026-04-21,20:30,La Liga,Matchweek 32,Tue,Away,L,1,2,Real Madrid,19,5,12,6,1,0,2025-2026,Alaves
+2026-04-21,20:30,La Liga,Matchweek 32,Tue,Away,W,3,2,Girona,7,3,18,1,3,0,2025-2026,Betis
+2026-04-21,20:30,La Liga,Matchweek 32,Tue,Home,L,2,3,Betis,9,2,11,3,1,0,2025-2026,Girona
+2026-04-21,20:30,La Liga,Matchweek 32,Tue,Home,W,2,1,Alaves,24,8,14,9,1,0,2025-2026,Real Madrid
+2026-04-22,18:00,La Liga,Matchweek 32,Wed,Away,L,2,3,Elche,6,3,12,3,2,1,2025-2026,Ath Madrid
+2026-04-22,18:00,La Liga,Matchweek 32,Wed,Home,W,3,2,Ath Madrid,14,6,11,13,2,0,2025-2026,Elche
+2026-04-22,19:00,La Liga,Matchweek 32,Wed,Away,W,1,0,Sociedad,5,0,22,3,5,0,2025-2026,Getafe
+2026-04-22,19:00,La Liga,Matchweek 32,Wed,Home,L,0,1,Getafe,13,4,13,6,4,0,2025-2026,Sociedad
+2026-04-22,20:30,La Liga,Matchweek 32,Wed,Home,W,1,0,Celta,10,3,13,5,1,0,2025-2026,Barcelona
+2026-04-22,20:30,La Liga,Matchweek 32,Wed,Away,L,0,1,Barcelona,6,3,10,3,1,0,2025-2026,Celta
+2026-04-23,18:00,La Liga,Matchweek 32,Thu,Home,W,2,0,Sevilla,8,3,17,3,3,0,2025-2026,Levante
+2026-04-23,18:00,La Liga,Matchweek 32,Thu,Away,L,0,2,Levante,7,0,16,6,4,0,2025-2026,Sevilla
+2026-04-23,19:00,La Liga,Matchweek 32,Thu,Away,L,0,1,Vallecano,15,4,15,5,4,0,2025-2026,Espanol
+2026-04-23,19:00,La Liga,Matchweek 32,Thu,Home,W,1,0,Espanol,17,6,12,6,2,0,2025-2026,Vallecano
+2026-04-23,20:30,La Liga,Matchweek 32,Thu,Home,D,1,1,Villarreal,16,4,9,7,1,0,2025-2026,Oviedo
+2026-04-23,20:30,La Liga,Matchweek 32,Thu,Away,D,1,1,Oviedo,7,3,11,0,1,0,2025-2026,Villarreal
+2026-04-24,20:00,La Liga,Matchweek 33,Fri,Home,D,1,1,Real Madrid,19,4,10,7,1,0,2025-2026,Betis
+2026-04-24,20:00,La Liga,Matchweek 33,Fri,Away,D,1,1,Betis,12,8,8,6,2,0,2025-2026,Real Madrid
+2026-04-25,13:00,La Liga,Matchweek 33,Sat,Home,W,2,1,Mallorca,15,4,15,9,2,0,2025-2026,Alaves
+2026-04-25,13:00,La Liga,Matchweek 33,Sat,Away,L,1,2,Alaves,4,2,14,4,1,0,2025-2026,Mallorca
+2026-04-25,15:15,La Liga,Matchweek 33,Sat,Away,W,2,0,Getafe,13,4,8,3,2,0,2025-2026,Barcelona
+2026-04-25,15:15,La Liga,Matchweek 33,Sat,Home,L,0,2,Barcelona,4,0,15,6,2,0,2025-2026,Getafe
+2026-04-25,17:30,La Liga,Matchweek 33,Sat,Away,L,1,2,Valencia,7,4,8,4,2,0,2025-2026,Girona
+2026-04-25,17:30,La Liga,Matchweek 33,Sat,Home,W,2,1,Girona,12,3,22,4,2,0,2025-2026,Valencia
+2026-04-25,20:00,La Liga,Matchweek 33,Sat,Away,L,2,3,Ath Madrid,12,4,12,4,0,0,2025-2026,Ath Bilbao
+2026-04-25,20:00,La Liga,Matchweek 33,Sat,Home,W,3,2,Ath Bilbao,6,4,8,3,0,0,2025-2026,Ath Madrid
+2026-04-26,13:00,La Liga,Matchweek 33,Sun,Away,D,3,3,Vallecano,13,8,12,4,4,0,2025-2026,Sociedad
+2026-04-26,13:00,La Liga,Matchweek 33,Sun,Home,D,3,3,Sociedad,24,9,14,6,6,1,2025-2026,Vallecano
+2026-04-26,15:15,La Liga,Matchweek 33,Sun,Away,W,2,1,Oviedo,4,4,14,1,0,1,2025-2026,Elche
+2026-04-26,15:15,La Liga,Matchweek 33,Sun,Home,L,1,2,Elche,12,3,21,6,2,0,2025-2026,Oviedo
+2026-04-26,17:30,La Liga,Matchweek 33,Sun,Home,W,2,1,Sevilla,15,7,11,4,2,0,2025-2026,Osasuna
+2026-04-26,17:30,La Liga,Matchweek 33,Sun,Away,L,1,2,Osasuna,8,2,13,4,2,0,2025-2026,Sevilla
+2026-04-26,20:00,La Liga,Matchweek 33,Sun,Away,L,1,2,Villarreal,9,3,16,5,6,0,2025-2026,Celta
+2026-04-26,20:00,La Liga,Matchweek 33,Sun,Home,W,2,1,Celta,13,4,13,7,3,0,2025-2026,Villarreal
+2026-04-27,20:00,La Liga,Matchweek 33,Mon,Home,D,0,0,Levante,9,3,12,4,3,1,2025-2026,Espanol
+2026-04-27,20:00,La Liga,Matchweek 33,Mon,Away,D,0,0,Espanol,8,4,15,4,3,0,2025-2026,Levante
+2026-05-01,20:00,La Liga,Matchweek 34,Fri,Home,L,0,1,Mallorca,14,4,8,5,4,0,2025-2026,Girona
+2026-05-01,20:00,La Liga,Matchweek 34,Fri,Away,W,1,0,Girona,8,4,25,2,2,0,2025-2026,Mallorca
+2026-05-02,13:00,La Liga,Matchweek 34,Sat,Away,L,1,5,Villarreal,12,3,7,3,1,0,2025-2026,Levante
+2026-05-02,13:00,La Liga,Matchweek 34,Sat,Home,W,5,1,Levante,20,8,14,7,3,0,2025-2026,Villarreal
+2026-05-02,15:15,La Liga,Matchweek 34,Sat,Away,W,2,0,Valencia,20,5,12,7,3,0,2025-2026,Ath Madrid
+2026-05-02,15:15,La Liga,Matchweek 34,Sat,Home,L,0,2,Ath Madrid,12,0,9,1,1,0,2025-2026,Valencia
+2026-05-02,17:30,La Liga,Matchweek 34,Sat,Home,L,2,4,Ath Bilbao,7,4,8,4,4,0,2025-2026,Alaves
+2026-05-02,17:30,La Liga,Matchweek 34,Sat,Away,W,4,2,Alaves,9,4,13,7,4,0,2025-2026,Ath Bilbao
+2026-05-02,20:00,La Liga,Matchweek 34,Sat,Away,W,2,1,Osasuna,13,4,10,7,2,0,2025-2026,Barcelona
+2026-05-02,20:00,La Liga,Matchweek 34,Sat,Home,L,1,2,Barcelona,9,4,9,3,2,0,2025-2026,Osasuna
+2026-05-03,13:00,La Liga,Matchweek 34,Sun,Home,W,3,1,Elche,6,4,14,4,2,0,2025-2026,Celta
+2026-05-03,13:00,La Liga,Matchweek 34,Sun,Away,L,1,3,Celta,15,4,15,2,1,0,2025-2026,Elche
+2026-05-03,15:15,La Liga,Matchweek 34,Sun,Home,L,0,2,Vallecano,13,3,7,4,3,0,2025-2026,Getafe
+2026-05-03,15:15,La Liga,Matchweek 34,Sun,Away,W,2,0,Getafe,10,6,22,1,5,0,2025-2026,Vallecano
+2026-05-03,17:30,La Liga,Matchweek 34,Sun,Home,W,3,0,Oviedo,10,5,9,5,0,0,2025-2026,Betis
+2026-05-03,17:30,La Liga,Matchweek 34,Sun,Away,L,0,3,Betis,17,5,4,4,0,0,2025-2026,Oviedo
+2026-05-03,20:00,La Liga,Matchweek 34,Sun,Home,L,0,2,Real Madrid,17,3,19,5,3,0,2025-2026,Espanol
+2026-05-03,20:00,La Liga,Matchweek 34,Sun,Away,W,2,0,Espanol,15,5,16,6,4,0,2025-2026,Real Madrid
+2026-05-04,20:00,La Liga,Matchweek 34,Mon,Home,W,1,0,Sociedad,19,5,19,3,3,0,2025-2026,Sevilla
+2026-05-04,20:00,La Liga,Matchweek 34,Mon,Away,L,0,1,Sevilla,6,0,11,3,1,0,2025-2026,Sociedad
+2026-05-08,20:00,La Liga,Matchweek 35,Fri,Home,W,3,2,Osasuna,35,12,11,15,2,0,2025-2026,Levante
+2026-05-08,20:00,La Liga,Matchweek 35,Fri,Away,L,2,3,Levante,5,3,13,1,0,1,2025-2026,Osasuna
+2026-05-09,13:00,La Liga,Matchweek 35,Sat,Away,D,1,1,Elche,12,4,13,3,6,0,2025-2026,Alaves
+2026-05-09,13:00,La Liga,Matchweek 35,Sat,Home,D,1,1,Alaves,16,5,15,7,3,0,2025-2026,Elche
+2026-05-09,15:15,La Liga,Matchweek 35,Sat,Away,L,1,2,Sevilla,10,5,17,6,5,0,2025-2026,Espanol
+2026-05-09,15:15,La Liga,Matchweek 35,Sat,Home,W,2,1,Espanol,21,6,14,4,5,0,2025-2026,Sevilla
+2026-05-09,17:30,La Liga,Matchweek 35,Sat,Home,L,0,1,Celta,20,4,11,10,1,0,2025-2026,Ath Madrid
+2026-05-09,17:30,La Liga,Matchweek 35,Sat,Away,W,1,0,Ath Madrid,3,1,13,0,2,0,2025-2026,Celta
+2026-05-09,20:00,La Liga,Matchweek 35,Sat,Away,D,2,2,Sociedad,14,6,9,3,3,1,2025-2026,Betis
+2026-05-09,20:00,La Liga,Matchweek 35,Sat,Home,D,2,2,Betis,14,6,12,4,2,0,2025-2026,Sociedad
+2026-05-10,13:00,La Liga,Matchweek 35,Sun,Home,D,1,1,Villarreal,18,8,17,5,2,0,2025-2026,Mallorca
+2026-05-10,13:00,La Liga,Matchweek 35,Sun,Away,D,1,1,Mallorca,7,2,13,4,0,0,2025-2026,Villarreal
+2026-05-10,15:15,La Liga,Matchweek 35,Sun,Home,L,0,1,Valencia,14,4,9,13,2,0,2025-2026,Ath Bilbao
+2026-05-10,15:15,La Liga,Matchweek 35,Sun,Away,W,1,0,Ath Bilbao,7,3,7,5,3,0,2025-2026,Valencia
+2026-05-10,17:30,La Liga,Matchweek 35,Sun,Away,D,0,0,Oviedo,22,4,16,9,3,0,2025-2026,Getafe
+2026-05-10,17:30,La Liga,Matchweek 35,Sun,Home,D,0,0,Getafe,8,4,9,1,2,2,2025-2026,Oviedo
+2026-05-10,20:00,La Liga,Matchweek 35,Sun,Home,W,2,0,Real Madrid,10,7,18,4,2,0,2025-2026,Barcelona
+2026-05-10,20:00,La Liga,Matchweek 35,Sun,Away,L,0,2,Barcelona,8,1,9,8,4,0,2025-2026,Real Madrid
+2026-05-11,20:00,La Liga,Matchweek 35,Mon,Away,D,1,1,Vallecano,9,5,9,5,1,0,2025-2026,Girona
+2026-05-11,20:00,La Liga,Matchweek 35,Mon,Home,D,1,1,Girona,18,5,10,9,1,0,2025-2026,Vallecano
+2026-05-12,18:00,La Liga,Matchweek 36,Tue,Home,L,2,3,Levante,11,6,7,4,0,0,2025-2026,Celta
+2026-05-12,18:00,La Liga,Matchweek 36,Tue,Away,W,3,2,Celta,14,6,10,4,2,0,2025-2026,Levante
+2026-05-12,19:00,La Liga,Matchweek 36,Tue,Home,W,2,1,Elche,16,7,16,8,3,0,2025-2026,Betis
+2026-05-12,19:00,La Liga,Matchweek 36,Tue,Away,L,1,2,Betis,8,2,13,1,3,1,2025-2026,Elche
+2026-05-12,20:30,La Liga,Matchweek 36,Tue,Away,W,2,1,Osasuna,5,4,12,4,5,1,2025-2026,Ath Madrid
+2026-05-12,20:30,La Liga,Matchweek 36,Tue,Home,L,1,2,Ath Madrid,23,5,15,8,6,0,2025-2026,Osasuna
+2026-05-13,18:00,La Liga,Matchweek 36,Wed,Away,L,0,2,Espanol,11,4,14,9,0,0,2025-2026,Ath Bilbao
+2026-05-13,18:00,La Liga,Matchweek 36,Wed,Home,W,2,0,Ath Bilbao,12,5,9,8,0,0,2025-2026,Espanol
+2026-05-13,18:00,La Liga,Matchweek 36,Wed,Away,W,3,2,Villarreal,13,5,9,4,1,0,2025-2026,Sevilla
+2026-05-13,18:00,La Liga,Matchweek 36,Wed,Home,L,2,3,Sevilla,6,4,11,6,2,0,2025-2026,Villarreal
+2026-05-13,20:30,La Liga,Matchweek 36,Wed,Home,W,1,0,Barcelona,9,3,14,6,1,0,2025-2026,Alaves
+2026-05-13,20:30,La Liga,Matchweek 36,Wed,Away,L,0,1,Alaves,8,0,8,4,2,0,2025-2026,Barcelona
+2026-05-13,20:30,La Liga,Matchweek 36,Wed,Home,W,3,1,Mallorca,6,4,17,3,3,0,2025-2026,Getafe
+2026-05-13,20:30,La Liga,Matchweek 36,Wed,Away,L,1,3,Getafe,9,2,18,3,4,0,2025-2026,Mallorca
+2026-05-14,18:00,La Liga,Matchweek 36,Thu,Home,D,1,1,Vallecano,12,3,9,5,1,0,2025-2026,Valencia
+2026-05-14,18:00,La Liga,Matchweek 36,Thu,Away,D,1,1,Valencia,6,3,20,1,1,0,2025-2026,Vallecano
+2026-05-14,19:00,La Liga,Matchweek 36,Thu,Home,D,1,1,Sociedad,29,4,13,6,2,0,2025-2026,Girona
+2026-05-14,19:00,La Liga,Matchweek 36,Thu,Away,D,1,1,Girona,6,2,19,3,7,0,2025-2026,Sociedad
+2026-05-14,20:30,La Liga,Matchweek 36,Thu,Away,L,0,2,Real Madrid,9,1,14,5,0,0,2025-2026,Oviedo
+2026-05-14,20:30,La Liga,Matchweek 36,Thu,Home,W,2,0,Oviedo,19,7,7,4,0,0,2025-2026,Real Madrid
+2026-05-17,18:00,La Liga,Matchweek 37,Sun,Away,W,1,0,Oviedo,7,1,18,2,1,0,2025-2026,Alaves
+2026-05-17,18:00,La Liga,Matchweek 37,Sun,Home,D,1,1,Celta,27,9,14,5,2,0,2025-2026,Ath Bilbao
+2026-05-17,18:00,La Liga,Matchweek 37,Sun,Home,W,1,0,Girona,17,4,7,9,2,0,2025-2026,Ath Madrid
+2026-05-17,18:00,La Liga,Matchweek 37,Sun,Away,D,1,1,Ath Bilbao,3,2,11,0,2,0,2025-2026,Celta
+2026-05-17,18:00,La Liga,Matchweek 37,Sun,Home,W,1,0,Getafe,10,3,18,4,3,0,2025-2026,Elche
+2026-05-17,18:00,La Liga,Matchweek 37,Sun,Away,W,2,1,Osasuna,7,3,13,2,2,0,2025-2026,Espanol
+2026-05-17,18:00,La Liga,Matchweek 37,Sun,Away,L,0,1,Elche,4,0,13,0,1,1,2025-2026,Getafe
+2026-05-17,18:00,La Liga,Matchweek 37,Sun,Away,L,0,1,Ath Madrid,25,11,9,8,0,0,2025-2026,Girona
+2026-05-17,18:00,La Liga,Matchweek 37,Sun,Home,W,2,0,Mallorca,15,3,11,4,2,1,2025-2026,Levante
+2026-05-17,18:00,La Liga,Matchweek 37,Sun,Away,L,0,2,Levante,8,3,15,6,0,1,2025-2026,Mallorca
+2026-05-17,18:00,La Liga,Matchweek 37,Sun,Home,L,1,2,Espanol,24,8,10,9,1,0,2025-2026,Osasuna
+2026-05-17,18:00,La Liga,Matchweek 37,Sun,Home,L,0,1,Alaves,8,0,13,5,3,0,2025-2026,Oviedo
+2026-05-17,18:00,La Liga,Matchweek 37,Sun,Away,W,1,0,Sevilla,12,1,12,4,0,0,2025-2026,Real Madrid
+2026-05-17,18:00,La Liga,Matchweek 37,Sun,Home,L,0,1,Real Madrid,14,6,18,4,4,0,2025-2026,Sevilla
+2026-05-17,18:00,La Liga,Matchweek 37,Sun,Home,L,3,4,Valencia,8,3,13,3,4,0,2025-2026,Sociedad
+2026-05-17,18:00,La Liga,Matchweek 37,Sun,Away,W,4,3,Sociedad,13,6,11,2,0,1,2025-2026,Valencia
+2026-05-17,18:00,La Liga,Matchweek 37,Sun,Home,W,2,0,Villarreal,15,7,12,1,2,0,2025-2026,Vallecano
+2026-05-17,18:00,La Liga,Matchweek 37,Sun,Away,L,0,2,Vallecano,11,2,10,9,1,0,2025-2026,Villarreal
+2026-05-17,20:15,La Liga,Matchweek 37,Sun,Home,W,3,1,Betis,15,9,7,6,1,0,2025-2026,Barcelona
+2026-05-17,20:15,La Liga,Matchweek 37,Sun,Away,L,1,3,Barcelona,7,2,8,4,0,0,2025-2026,Betis
+2026-05-23,20:00,La Liga,Matchweek 38,Sat,Home,L,1,2,Vallecano,19,11,13,10,3,0,2025-2026,Alaves
+2026-05-23,20:00,La Liga,Matchweek 38,Sat,Away,L,2,4,Real Madrid,8,2,20,1,0,0,2025-2026,Ath Bilbao
+2026-05-23,20:00,La Liga,Matchweek 38,Sat,Away,L,1,3,Valencia,11,4,8,8,2,0,2025-2026,Barcelona
+2026-05-23,20:00,La Liga,Matchweek 38,Sat,Home,W,2,1,Levante,18,8,11,4,1,0,2025-2026,Betis
+2026-05-23,20:00,La Liga,Matchweek 38,Sat,Home,W,1,0,Sevilla,12,3,11,4,1,0,2025-2026,Celta
+2026-05-23,20:00,La Liga,Matchweek 38,Sat,Away,D,1,1,Girona,3,1,20,1,4,0,2025-2026,Elche
+2026-05-23,20:00,La Liga,Matchweek 38,Sat,Home,D,1,1,Sociedad,17,8,11,3,1,0,2025-2026,Espanol
+2026-05-23,20:00,La Liga,Matchweek 38,Sat,Home,W,1,0,Osasuna,6,3,17,2,1,0,2025-2026,Getafe
+2026-05-23,20:00,La Liga,Matchweek 38,Sat,Home,D,1,1,Elche,10,7,20,2,4,0,2025-2026,Girona
+2026-05-23,20:00,La Liga,Matchweek 38,Sat,Away,L,1,2,Betis,15,7,7,8,2,0,2025-2026,Levante
+2026-05-23,20:00,La Liga,Matchweek 38,Sat,Home,W,3,0,Oviedo,23,7,10,5,2,0,2025-2026,Mallorca
+2026-05-23,20:00,La Liga,Matchweek 38,Sat,Away,L,0,1,Getafe,11,5,20,4,2,0,2025-2026,Osasuna
+2026-05-23,20:00,La Liga,Matchweek 38,Sat,Away,L,0,3,Mallorca,7,0,8,5,1,0,2025-2026,Oviedo
+2026-05-23,20:00,La Liga,Matchweek 38,Sat,Home,W,4,2,Ath Bilbao,13,8,6,2,2,0,2025-2026,Real Madrid
+2026-05-23,20:00,La Liga,Matchweek 38,Sat,Away,L,0,1,Celta,9,2,20,3,1,0,2025-2026,Sevilla
+2026-05-23,20:00,La Liga,Matchweek 38,Sat,Away,D,1,1,Espanol,9,4,17,5,3,0,2025-2026,Sociedad
+2026-05-23,20:00,La Liga,Matchweek 38,Sat,Home,W,3,1,Barcelona,19,6,11,7,2,0,2025-2026,Valencia
+2026-05-23,20:00,La Liga,Matchweek 38,Sat,Away,W,2,1,Alaves,15,7,14,5,3,0,2025-2026,Vallecano
+2026-05-24,20:00,La Liga,Matchweek 38,Sun,Away,L,1,5,Villarreal,9,4,12,9,1,0,2025-2026,Ath Madrid
+2026-05-24,20:00,La Liga,Matchweek 38,Sun,Home,W,5,1,Ath Madrid,14,8,3,5,0,0,2025-2026,Villarreal
